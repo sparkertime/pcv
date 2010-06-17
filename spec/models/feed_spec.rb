@@ -46,5 +46,11 @@ describe Feed do
       
       feed.errors.invalid?(:url).should be_true
     end
+    
+    it "should not require http in the url" do
+      feed = Factory(:feed, :url => 'example.com')
+      feed.reload
+      feed.url.should == 'http://example.com'
+    end
   end
 end
