@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/rsspodcaststyle.css" ?>
+<!--podcast program main template Written 3/30/06, (C) 2006-10 by Ken Garson. v5/6/10-->
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>The Best Show on WFMU with Tom Scharpling | WFMU</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+<![CDATA[
+The Best Show On WFMU is now The Best Podcast On WFMU! Join Tom Scharpling as he journeys through the treacherous and hi-larious world of open phones, bizarre fake guests, and even more disturbing real guests. The podcast is all of the Mirth and Mayhem, but none of the Music!
+]]>
+</description>
+<itunes:summary>
+<![CDATA[
+The Best Show On WFMU is now The Best Podcast On WFMU! Join Tom Scharpling as he journeys through the treacherous and hi-larious world of open phones, bizarre fake guests, and even more disturbing real guests. The podcast is all of the Mirth and Mayhem, but none of the Music!
+]]>
+</itunes:summary>
+<itunes:subtitle>WFMU presents a comedic wrangling of open phones and fake guests.</itunes:subtitle>
+<language>en</language>
+<copyright>Copyright (C) 2010 WFMU</copyright>
+<pubDate>Thu, 17 Jun 2010 10:18:07 EDT</pubDate>
+<lastBuildDate>Thu, 17 Jun 2010 10:18:07 EDT</lastBuildDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<image>
+<url>http://wfmu.org/podcast_images/BS_144_bombsmall.jpg</url>
+<title>The Best Show on WFMU with Tom Scharpling | WFMU</title>
+<link>http://wfmu.org/playlists/BS</link>
+<width>144</width>
+<height>192</height>
+</image>
+<itunes:image href="http://wfmu.org/podcast_images/BS_300_bombsmall.jpg" />
+<itunes:category text="Comedy">
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+</itunes:category>
+<itunes:keywords>WFMU, talk, comedy, call-in, Scharpling, Wurster, best-show, humor, pranks, radio, Tuesday</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>Episode from Jun 15, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#36187</guid>
+<enclosure length="70110338" url="http://podcast.wfmu.org/BS/bs100615p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 17 Jun 2010 10:18:07 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>166:51</itunes:duration>
+</item>
+<item>
+<title>Episode from Jun 8, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#36102</guid>
+<enclosure length="71447389" url="http://podcast.wfmu.org/BS/bs100608p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 09 Jun 2010 10:12:18 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>170:02</itunes:duration>
+</item>
+<item>
+<title>Episode from Jun 1, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#36008</guid>
+<enclosure length="69711344" url="http://podcast.wfmu.org/BS/bs100601p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 03 Jun 2010 14:33:18 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:54</itunes:duration>
+</item>
+<item>
+<title>Episode from May 25, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35930</guid>
+<enclosure length="70920578" url="http://podcast.wfmu.org/BS/bs100525p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 27 May 2010 08:35:47 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>168:47</itunes:duration>
+</item>
+<item>
+<title>Episode from May 18, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35840</guid>
+<enclosure length="68311389" url="http://podcast.wfmu.org/BS/bs100518p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 20 May 2010 09:47:15 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>162:34</itunes:duration>
+</item>
+<item>
+<title>Episode from May 11, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35757</guid>
+<enclosure length="68829424" url="http://podcast.wfmu.org/BS/bs100511p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 13 May 2010 09:00:00 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>163:48</itunes:duration>
+</item>
+<item>
+<title>Episode from May 4, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35666</guid>
+<enclosure length="69536349" url="http://podcast.wfmu.org/BS/bs100504p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 06 May 2010 09:00:00 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:29</itunes:duration>
+</item>
+<item>
+<title>The Therese &amp; Mike Show filled in. from Apr 27, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35578</guid>
+<enclosure length="66894247" url="http://podcast.wfmu.org/BS/bs100427p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 29 Apr 2010 10:08:35 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>159:12</itunes:duration>
+</item>
+<item>
+<title>Episode from Apr 20, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35492</guid>
+<enclosure length="69018681" url="http://podcast.wfmu.org/BS/bs100420p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 22 Apr 2010 09:53:30 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>164:15</itunes:duration>
+</item>
+<item>
+<title>Episode from Apr 13, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35403</guid>
+<enclosure length="69940829" url="http://podcast.wfmu.org/BS/bs100413p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 15 Apr 2010 10:42:16 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>166:27</itunes:duration>
+</item>
+<item>
+<title>Tom Is Visited By The Dejected Owner Of A Pizzeria! The Topics Are &quot;Best And Worst Celebrity Endorsements&quot; And &quot;What Celebrities Are Currently In Jail?&quot; A Fun One! from Mar 23, 2010</title>
+<link>http://wfmu.org/playlists/shows/35157</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Rock Theme" - SHOW THEME #1<br />
+Big Star - "The Ballad of El Goodo" - KEEP AN EYE ON THE SKY box<br />
+Hank IV - "My Anger" - REFUGE IN GENRE<br />
+Boston Spaceships - "The Way Out" - CAMERA FOUND THE RAYGUN<br />
+High School Sweethearts - "Afterschool Special" - HEELS N WHEELS<br />
+Black Lips - "Disconnection"<br />
+Black Lips - "Drugs" - 200 MILLION THOUSAND<br />
+Rollins Band - "Do It" - DO IT EP<br />
+Themeweavers LLC - "The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme Instrumental" - BED MUSIC<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/35157">http://wfmu.org/playlists/shows/35157</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/35157</guid>
+<enclosure length="69668189" url="http://podcast.wfmu.org/BS/bs100323p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:08:58 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:48</itunes:duration>
+</item>
+<item>
+<title>Tom Apologizes To Vampire Weekend! Tom's Cousin Willy Calls In To Discuss The Joys Of Seeing A Newborn! A Call From PAUL F TOMPKINS In Which John McCain's Eating Habits And The Rocky Statue Are Discussed! There Can't Be Room For More, Right? Wrong! from Mar 16, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35077</guid>
+<enclosure length="69438338" url="http://podcast.wfmu.org/BS/bs100316p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:07:31 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:15</itunes:duration>
+</item>
+<item>
+<title>Week Two Of the WFMU Fundraising Marathon! Tom And Co-Host THERESE Welcome PATTON OSWALT And John HODGMAN To The Show! Comedy! Nerd Battle! Laughs! Fundraising! Triumph! from Mar 9, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#35006</guid>
+<enclosure length="74394315" url="http://podcast.wfmu.org/BS/bs100309p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:05:20 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>177:03</itunes:duration>
+</item>
+<item>
+<title>Another Special 2010 Marathon Podcast Announcement! from Mar 8, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34982</guid>
+<enclosure length="5369817" url="http://podcast.wfmu.org/BS/bs100308p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:03:44 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>5:34</itunes:duration>
+</item>
+<item>
+<title>A Special 2010 Marathon Podcast Announcement! from Mar 1, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34910</guid>
+<enclosure length="8266273" url="http://podcast.wfmu.org/BS/bs1003010p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:03:20 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>8:35</itunes:duration>
+</item>
+<item>
+<title>Week One Of the WFMU Fundraising Marathon! Tom And Co-Host HATCH Welcome TED LEO Back To Help Raise The Money! Plus In Studio Appearances By BRYCE And A Dude From The Shout! Network! Want To Hear The Good Guys Win? Listen To This! from Mar 2, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34930</guid>
+<enclosure length="69544816" url="http://podcast.wfmu.org/BS/bs100302p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:02:54 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:35</itunes:duration>
+</item>
+<item>
+<title>Tom Talks With TIM AND ERIC About Their New Show! He Also Talks To And Bans Comic/Toiletmouth MATT WALSH. Listen To Tom Sink Into A Bad Bad Mood! from Feb 23, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34841</guid>
+<enclosure length="68325287" url="http://podcast.wfmu.org/BS/bs100223p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 13:00:23 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>162:36</itunes:duration>
+</item>
+<item>
+<title>A Six Hour Tom's Birthday Extravaganza! PATTON OSWALT. ZACH GALIFIANAKIS. PAUL F TOMPKINS. JOHN HODGMAN. TOM'S DADDY. THE DEBUT OF A NEW SONG BY TED LEO WRITTEN FOR TOM. And More? Yes, More! from Feb 9, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34684</guid>
+<enclosure length="140542340" url="http://podcast.wfmu.org/BS/bs100209p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 12:59:05 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>334:33</itunes:duration>
+</item>
+<item>
+<title>An In Studio Appearance By MATT FRACTION! Details Of Tom's Action Packed Trip To And From Atlanta! The Topic Is &quot;I Tried It And I Still Don't Get It&quot;, And More! from Feb 2, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34602</guid>
+<enclosure length="71077287" url="http://podcast.wfmu.org/BS/bs100202p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 14 Apr 2010 12:57:35 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:09</itunes:duration>
+</item>
+<item>
+<title>Episode from Mar 30, 2010</title>
+<link>http://wfmu.org/playlists/shows/35241</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Rock Theme" - SHOW THEME #1<br />
+Ted Leo and the Pharmacists - "Last Days" - THE BRUTALIST BRICKS<br />
+Los Saicos - "Camisa De Fuerza" - DEMOLICION!<br />
+The Chills - "Rain" - Brave World" Flying Nun<br />
+Bettie Seveert - "Smile" - TOM BOY<br />
+Rollins Band - "Do It" - DO IT<br />
+Themeweavers LLC - "‘The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme Instrumental" - BED MUSIC<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/35241">http://wfmu.org/playlists/shows/35241</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/35241</guid>
+<enclosure length="69587549" url="http://podcast.wfmu.org/BS/bs100330p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 01 Apr 2010 09:00:00 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>165:36</itunes:duration>
+</item>
+<item>
+<title>The Therese and Mike Show filled-in for Tom tonight. from Feb 16, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34760</guid>
+<enclosure length="66273264" url="http://podcast.wfmu.org/BS/bs100216p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 18 Feb 2010 09:50:42 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>157:43</itunes:duration>
+</item>
+<item>
+<title>Author And Funny Person JULIE KLAUSNER Is Live In Studio! Bryce Checks In From The Hospital. The Topic Is ‘Just Desserts’. Talk Of Avatar And Overweight Nazis. Tom Is Cranky And Mike Takes The Show To Where He Takes The Show. Again. from Jan 26, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34521</guid>
+<enclosure length="71385584" url="http://podcast.wfmu.org/BS/bs100126p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 28 Jan 2010 11:36:26 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:53</itunes:duration>
+</item>
+<item>
+<title>The Battle Of The Proteges -- Wally Wackiman Faces Off Against The H-Man! Wally Melts Down And The H-Man Interviews AZIZ ANSARI. Who Will Win? JON AUER From Posies And Big Star Live In Studio! A Good One Indeed! from Jan 19, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34438</guid>
+<enclosure length="67149332" url="http://podcast.wfmu.org/BS/bs100119p.mp3" type="audio/mpeg" />
+<pubDate>Tue, 26 Jan 2010 22:27:18 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>159:48</itunes:duration>
+</item>
+<item>
+<title>An Aspiring Horror Filmmaker Stops By To Discuss His Star Studded Project. Should Tom Go See Avatar Or Sherlock Holmes? Thoughts On Conan Versus Leno, We Try To Earn Ted Leo A Shorty Award And So Much More! from Jan 12, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34359</guid>
+<enclosure length="71454338" url="http://podcast.wfmu.org/BS/bs100112p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 22 Jan 2010 16:50:02 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>170:03</itunes:duration>
+</item>
+<item>
+<title>The First Best Show Of The Decade! Comedian Patton Oswalt Checks In! Wally Wackiman Is A Cyclops! A Food Delivery Guy Talks About His Website! Talk Of Gallagher’s Meltdowns! The Happiest Of New Years To You And Yours! from Jan 5, 2010</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34281</guid>
+<enclosure length="71310612" url="http://podcast.wfmu.org/BS/bs100105p.mp3" type="audio/mpeg" />
+<pubDate>Thu, 07 Jan 2010 09:00:00 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:43</itunes:duration>
+</item>
+<item>
+<title>Ted Leo In Studio! John Hodgman In Studio! Karl The Repairman In Studio! A Special Interview With Sanjaya! Lisa Jane Persky In Studio! Talk Of INGLOURIOUS BASTERDS! The Pre-Best Show Meetup Show! A Ton Of Fun! from Sep 8, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#32866</guid>
+<enclosure length="61067244" url="http://podcast.wfmu.org/BS/bs090908p.mp3" type="audio/mpeg" />
+<pubDate>Wed, 06 Jan 2010 23:42:01 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:32</itunes:duration>
+</item>
+<item>
+<title>Tom’s Protégé Wally Wackiman Is In Studio! And He's A Puppet! The H-Man Calls In! So Does Paul F. Tompkins! As Does A Guy In England With A Horrible iPhone! Razor Talk! And The Topic Is &quot;Time To Cut The Fat!&quot; from Dec 8, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33941</guid>
+<enclosure length="73449310" url="http://podcast.wfmu.org/BS/bs091208p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 01 Jan 2010 15:27:34 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>174:48</itunes:duration>
+</item>
+<item>
+<title>An Introduction By Peanut Butter Pete. Serious Discussion Of Child On Child Violence, The Condemnation of Tommy Heinsohn And His Points And Tom's Search For Flip Flops In Boston. from Dec 15, 2009</title>
+<link>http://wfmu.org/playlists/shows/34021</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Rock Theme" - SHOW THEME #1<br />
+Tall Dwarfs - "Breathe" - Weeville CD<br />
+Felt Letters - "600,000 Bands" - 7<br />
+Strapping Fieldhands - "Lonnie Donnegan's Mum's Tea Chest" - Discus CD<br />
+Black Hollies - "Lead Me To The Fire" - Softly Towards the Light<br />
+Themeweavers LLC - "The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme Instrumental Bed Music"<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/34021">http://wfmu.org/playlists/shows/34021</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/34021</guid>
+<enclosure length="70285332" url="http://podcast.wfmu.org/BS/bs091215p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 01 Jan 2010 15:27:11 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>167:16</itunes:duration>
+</item>
+<item>
+<title>An In Studio Appearance By AIMEE MANN and TODD BARRY! Aimee Sings Songs And Todd Is Funny! The Kraftwerk Song &quot;USB Port&quot; Is Discussed, 80s Rick Calls In And Some Other Stuff Too! Good! from Dec 1, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33858</guid>
+<enclosure length="71510292" url="http://podcast.wfmu.org/BS/bs091201p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 01 Jan 2010 15:19:07 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>170:11</itunes:duration>
+</item>
+<item>
+<title>A Sean And Shane Stop By The Studio. Talk Of Last Minute Christmas Gifts And Holiday Wishes From All Your Favorites, Including The Denver Nuggets and Chicago Bulls. from Dec 22, 2009</title>
+<link>http://wfmu.org/playlists/shows/34107</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Rock Theme" - SHOW THEME #1<br />
+Boston Spaceships - "Meddle" - Zero to 99<br />
+Ted Leo and the Pharmacists - "CIA" - Living With the Living<br />
+Meyer Hawthorne - "When I Said Goodbye" - A Strange Arrangement<br />
+Spider Bags - "Teenage Eyes"<br />
+Themeweavers LLC - "The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme" - Instrumental BED MUSIC<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/34107">http://wfmu.org/playlists/shows/34107</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/34107</guid>
+<enclosure length="72001078" url="http://podcast.wfmu.org/BS/bs091222p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 01 Jan 2010 14:56:25 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>149:56</itunes:duration>
+</item>
+<item>
+<title>The Last Best Show Of The Decade! Celebrity Chef Victor Freeman Stops By To Cook In The Studio. Discussion Of The Heroes And Villains Of 2009 And Calls From Paul F Tompkins, Eric Wareheim And Jen Kirkman! from Dec 29, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#34200</guid>
+<enclosure length="70901378" url="http://podcast.wfmu.org/BS/bs091229p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 01 Jan 2010 12:33:11 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>168:44</itunes:duration>
+</item>
+<item>
+<title>A Six Hour Epic! A Call From A Man Who Is Trapped By His Own Existence! Bryce Requests Zappa! Fredericks Den! An Interview With Andrew Sandoval! The Mike Show! Bad Business Names! And MORE! from Nov 24, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33768</guid>
+<enclosure length="142728397" url="http://podcast.wfmu.org/BS/bs091124p.mp3" type="audio/mpeg" />
+<pubDate>Fri, 27 Nov 2009 00:19:14 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>339:45</itunes:duration>
+</item>
+<item>
+<title>Tom Returns From Lipstick City With Tales Of Jimmy Webb, Panic Attacks And Celebrity Sightings, Philly Boy Roy Issues A World Series Challenge And Reminds Mike That It Is Harder Than It Looks. from Oct 27, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33437</guid>
+<enclosure length="61233562" url="http://podcast.wfmu.org/BS/bs091027p.mp3" type="audio/mpeg" />
+<pubDate>Mon, 23 Nov 2009 13:36:29 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>170:00</itunes:duration>
+</item>
+<item>
+<title>ANDREW W.K. Is Live In Studio! Philly Boy Roy Loses Everything! A Call From Sam Seder! And Spike Admits Something For The Sake Of This Conversation That Will ROCK YOUR WORLD. from Nov 10, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33606</guid>
+<enclosure length="60564462" url="http://podcast.wfmu.org/BS/bs091110p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 19:11:30 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>168:09</itunes:duration>
+</item>
+<item>
+<title>The Therese And Mike Show Returns! The Topic Is &quot;Childhood Traumas&quot;. from Oct 20, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33362</guid>
+<enclosure length="56188743" url="http://podcast.wfmu.org/BS/bs091020p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 19:00:02 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>155:59</itunes:duration>
+</item>
+<item>
+<title>Therese And Mike Take Over With THE THERESE AND MIKE SHOW! The Topic Is &quot;Gym Class Humiliations&quot;. from Oct 13, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33277</guid>
+<enclosure length="65653012" url="http://podcast.wfmu.org/BS/bs091013p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:59:03 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>156:14</itunes:duration>
+</item>
+<item>
+<title>JOHN HODGMAN In Studio! PAUL F TOMPKINS In Studio! DAVID REES In Studio! Philly Boy Roy Calls In! Talk Of Rage And Of Tom Doing His Fontasy Basketball Draft From A Kinko's On The Sunset Strip, And Discussion Of How Fat Chris Christie Is. from Nov 3, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33527</guid>
+<enclosure length="73398110" url="http://podcast.wfmu.org/BS/bs091103p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:57:09 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>174:41</itunes:duration>
+</item>
+<item>
+<title>Tom Talks Of Brad Benson And His Horrible Commercials, David The Intern Stops In, A Call From The One And Only NARDWUAR And Mike Takes The Bayonne Challenge! from Oct 6, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33192</guid>
+<enclosure length="71223389" url="http://podcast.wfmu.org/BS/bs091006p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:51:33 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:30</itunes:duration>
+</item>
+<item>
+<title>JACKSON PUBLICK And JAMES URBANIAK From THE VENTURE BROTHERS Are Live In Studio! Talk Of Tom's Car Breaking Down! And Spike Discusses Why He Keeps WEIRDOS EXPOSED At Work Instead Of At Home. from Sep 29, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33109</guid>
+<enclosure length="62349983" url="http://podcast.wfmu.org/BS/bs090929p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:50:03 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>173:06</itunes:duration>
+</item>
+<item>
+<title>A Call From Tom's Uncle Who Wants To Jam With Santana, The Topic Is &quot;You Went Too Far, Now You Are The One Who Is Wrong&quot;, Calls From Jen Kirkman And Paul F. Tompkins, And Discussion Of Shohreh Aghdashloo's Breathing Issues. from Sep 22, 2009</title>
+<link>http://wfmu.org/playlists/shows/33037</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Theme" - SHOW THEME #1<br />
+13th Floor Elevators - "Slip Inside This House (single edit)" - Never Never Land box<br />
+Box Elders - "Dave" - Alice and Friends<br />
+Yo La Tengo - "If It's True" - Popular Songs<br />
+Ted Leo and the Pharmacists - "The World Stops Turning" - Living With the Living<br />
+Themeweavers LLC - "The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme Instrumental" - Bed Music<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/33037">http://wfmu.org/playlists/shows/33037</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/33037</guid>
+<enclosure length="61311929" url="http://podcast.wfmu.org/BS/bs090922p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:43:40 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>170:13</itunes:duration>
+</item>
+<item>
+<title>Spike Mourns The Passing Of The Guiding Light, The H-Man Goes On Trial, The Debut Of Wally Wackiman, A Fantasy Football Fan Talks About His Team And The Laurie/Larry Da Perv Radio Date! from Sep 15, 2009</title>
+<link>http://wfmu.org/playlists/shows/32948</link>
+<description>
+<![CDATA[
+Mr and Mrs Paycheck - "The Best Show Rock Theme" - SHOW THEME #1<br />
+Mott the Hoople - "Rock And Roll Queen" - THE BALLAD OF MOTT: RETROSPECTIVE<br />
+Nation Of Ulysses - "You're My Miss Washington DC" - 13 POINT PLAN TO DESTROY AMERICA<br />
+Felt Letters - "600,000 Bands" - NO ALBUM<br />
+Yo La Tengo - "Something To Hide" - POPULAR SONGS<br />
+Themeweavers LLC - "The Best Show Theme" - SHOW THEME #2<br />
+Themeweavers LLC - "The Best Show Theme Instrumental" - Bed Music<br />
+<br />
+<!--Generated by KenzoDB ( http://kenzodb.com ), (C) 2000-2010 Ken Garson-->
+<a href="http://wfmu.org/playlists/shows/32948">http://wfmu.org/playlists/shows/32948</a>
+]]>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/shows/32948</guid>
+<enclosure length="61221650" url="http://podcast.wfmu.org/BS/bs090915p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 18:35:15 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>169:58</itunes:duration>
+</item>
+<item>
+<title>An Emergency Podcast For The WFMU Emergency 24 Hour Mini Marathon! Hear The Desperation In Tom's Voice! And If You Still Haven't Pledged, Go To wfmu.org For Information! from Nov 16, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33663</guid>
+<enclosure length="8534604" url="http://podcast.wfmu.org/BS/bs091116p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 17:28:21 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>8:51</itunes:duration>
+</item>
+<item>
+<title>The 2009 Emergency Marathon Show With Co-Host Terre T! Featuring A Call From Zachary Brimstead, Esq! Hear WFMU History In The Making (And Thanks To All Who Pledged!) from Nov 17, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#33680</guid>
+<enclosure length="66568395" url="http://podcast.wfmu.org/BS/bs091117p.mp3" type="audio/mpeg" />
+<pubDate>Sat, 21 Nov 2009 17:27:25 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>158:25</itunes:duration>
+</item>
+<item>
+<title>A Six Hour Extravaganza With PAUL F TOMPKINS and JOHN HODGMAN Live In Studio! A Call From A Newbridge Superstar Jock, The Julie Show, James Live In Studio, The Mike Show And MORE. A True Epic. from Jun 2, 2009</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#31684</guid>
+<enclosure length="119886420" url="http://podcast.wfmu.org/BS/bs090602p.mp3" type="audio/mpeg" />
+<pubDate>Mon, 08 Jun 2009 01:55:21 -0400</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>332:56</itunes:duration>
+</item>
+<item>
+<title>Tom Talks Of His Exciting Trip To Los Angeles, Philly Boy Roy Talks Of Wawa Records, Talk Of Studio 60 And Paul Simon And More. from Jul 3, 2007</title>
+<link>http://wfmu.org/playlists/BS</link>
+<description>
+</description>
+<guid isPermaLink="true">http://wfmu.org/playlists/BS#23740</guid>
+<enclosure length="55448436" url="http://podcast.wfmu.org/BS/bs070703p.mp3" type="audio/mpeg" />
+<pubDate>Tue, 25 Nov 2008 14:13:19 -0500</pubDate>
+<itunes:author>Tom Scharpling and WFMU</itunes:author>
+<itunes:duration>153:56</itunes:duration>
+</item>
+</channel>
+</rss>
+<!--Generated dynamically by <strong><a href="http://kenzodb.com/" style="text-decoration:none" target="_blank">KenzoDB</a></strong>, (C) 2000-2010 <a href="http://lastever.org/email" target="_blank">Ken Garson</a>-->

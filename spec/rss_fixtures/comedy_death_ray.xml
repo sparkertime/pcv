@@ -1,0 +1,3381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:blip="http://blip.tv/dtd/blip/1.0"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:amp="http://www.adobe.com/amp/1.0"
+	xmlns:dcterms="http://purl.org/dc/terms"
+	xmlns:gm="http://www.google.com/schemas/gm/1.1"
+	xmlns:mediaad="http://blip.tv/dtd/mediaad/1.0"
+>
+<channel>
+<title>Comedy Death-Ray Radio</title>
+<link>http://comedydeathray.com</link>
+
+
+
+
+
+
+
+
+
+
+	<itunes:image href="http://a.images.blip.tv/ComedyDeathRayRadio-300x300_show_image304.jpg" />
+	<amp:logo>http://a.images.blip.tv/ComedyDeathRayRadio-300x300_show_image304.jpg</amp:logo>
+
+
+
+
+
+
+<description>Based on the live stage show the L.A. Times calls &quot;one of the most prestigious nights of [comedy] in the country,&quot; Comedy Death-Ray Radio brings the country&apos;s best comedians straight to your home.</description>
+<itunes:summary>Comedy Death-Ray on Indie1031.com&#13;&#10;Fridays from noon - 1pm PST&#13;&#10;with Scott Aukerman, Rob Huebel and other comics from the Comedy Death-Ray...um...comedy show.</itunes:summary>
+
+
+
+<itunes:author>Comedy Death-Ray Radio</itunes:author>
+<itunes:block>no</itunes:block>
+
+<itunes:category text="Comedy" />
+
+<language>en</language>
+<generator>http://blip.tv</generator>
+<lastBuildDate>Sat, 19 Jun 2010 07:55:30 +0000</lastBuildDate>
+<pubDate>Sat, 19 Jun 2010 07:55:30 +0000</pubDate>
+
+
+
+<item>
+  <guid isPermaLink="false">0822804E-7B78-11DF-8BF0-EEDD2345CF1A</guid>
+  <link>http://blip.tv/file/3775968</link>
+  <title>Comedy Death-Ray Radio 58</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3795037</blip:posts_id>
+  <blip:item_id>3775968</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-06-19T07:55:30Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5240</blip:runtime>
+  <blip:embedLookup>hZtdgefRQQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgefRQQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3795037&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Rob Huebel & Steel Panther]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Rob Huebel & Steel Panther
+
+]]></description>
+  <comments>http://blip.tv/file/3775968</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>rob huebel</category>
+  <category>steel panther</category>
+  <category>indie 103.1</category>
+  <category>comedy podcast</category>
+  <pubDate>Sat, 19 Jun 2010 07:55:30 +0000</pubDate>
+  <enclosure length="26202154" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio58850.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, rob huebel, steel panther, indie 103.1, comedy podcast</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, rob huebel, steel panther, indie 103.1, comedy podcast</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="26202154" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio58850.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3775968"><![CDATA[<embed src="http://blip.tv/play/hZtdgefRQQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 58</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">8061AEC2-7597-11DF-8B82-86CAAE82BABB</guid>
+  <link>http://blip.tv/file/3743967</link>
+  <title>Comedy Death-Ray Radio 57</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3763051</blip:posts_id>
+  <blip:item_id>3743967</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-06-11T20:25:39Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4102</blip:runtime>
+  <blip:embedLookup>hZtdgeXXTwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgeXXTwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3763051&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Brian Posehn & James Adomian]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Brian Posehn & James Adomian
+
+]]></description>
+  <comments>http://blip.tv/file/3743967</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>cdr radio</category>
+  <category>posehn</category>
+  <category>adomian</category>
+  <category>indie 103.1</category>
+  <pubDate>Fri, 11 Jun 2010 20:25:39 +0000</pubDate>
+  <enclosure length="20512958" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio57413.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, cdr radio, posehn, adomian, indie 103.1</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, cdr radio, posehn, adomian, indie 103.1</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="20512958" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio57413.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3743967"><![CDATA[<embed src="http://blip.tv/play/hZtdgeXXTwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 57</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">79611C9C-702F-11DF-A388-C5AA0A79DCE6</guid>
+  <link>http://blip.tv/file/3715292</link>
+  <title>Comedy Death-Ray Radio 56</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3734392</blip:posts_id>
+  <blip:item_id>3715292</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-06-04T23:18:24Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4473</blip:runtime>
+  <blip:embedLookup>hZtdgeP3XAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgeP3XAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3734392&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. David Higgins & Paul F. Tompkins]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. David Higgins & Paul F. Tompkins
+
+]]></description>
+  <comments>http://blip.tv/file/3715292</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>david higgins</category>
+  <category>paul f. tompkins</category>
+  <pubDate>Fri, 04 Jun 2010 23:18:24 +0000</pubDate>
+  <enclosure length="22365692" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio56340.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, david higgins, paul f. tompkins</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, david higgins, paul f. tompkins</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="22365692" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio56340.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3715292"><![CDATA[<embed src="http://blip.tv/play/hZtdgeP3XAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 56</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">D17544CA-6A9F-11DF-BA82-E105A5F17194</guid>
+  <link>http://blip.tv/file/3685702</link>
+  <title>Comedy Death-Ray Radio 55</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3704809</blip:posts_id>
+  <blip:item_id>3685702</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-05-28T21:27:29Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3548</blip:runtime>
+  <blip:embedLookup>hZtdgeKQTQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgeKQTQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3704809&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Natasha Leggero,  Jason Mantzoukas, & Seth Morris]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Natasha Leggero, <span><span><span> Jason Mantzoukas, &amp; Seth Morris<br /></span></span></span>
+
+]]></description>
+  <comments>http://blip.tv/file/3685702</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>natasha leggero</category>
+  <category>jason mantzoukas</category>
+  <category>seth morris</category>
+  <category>bob ducca</category>
+  <category>dooka</category>
+  <category>duka</category>
+  <pubDate>Fri, 28 May 2010 21:27:29 +0000</pubDate>
+  <enclosure length="42578482" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio55483.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, natasha leggero, jason mantzoukas, seth morris, bob ducca, dooka, duka</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, natasha leggero, jason mantzoukas, seth morris, bob ducca, dooka, duka</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="42578482" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio55483.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3685702"><![CDATA[<embed src="http://blip.tv/play/hZtdgeKQTQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 55</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">7DFA8604-651B-11DF-9E79-F6109A8D6C78</guid>
+  <link>http://blip.tv/file/3654939</link>
+  <title>Comedy Death-Ray Radio 54</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3674061</blip:posts_id>
+  <blip:item_id>3654939</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-05-21T20:57:39Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4766</blip:runtime>
+  <blip:embedLookup>hZtdgeCgMQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgeCgMQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3674061&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Marc Maron & the Birthday Boys]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Marc Maron & the Birthday Boys
+
+]]></description>
+  <comments>http://blip.tv/file/3654939</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray</category>
+  <category>marc maron</category>
+  <category>birthday boys</category>
+  <pubDate>Fri, 21 May 2010 20:57:39 +0000</pubDate>
+  <enclosure length="57198373" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio54320.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray, marc maron, birthday boys</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray, marc maron, birthday boys</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="57198373" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio54320.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3654939"><![CDATA[<embed src="http://blip.tv/play/hZtdgeCgMQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 54</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">4634FAE4-5FA6-11DF-8A21-91F9CCAEB2E8</guid>
+  <link>http://blip.tv/file/3624596</link>
+  <title>Comedy Death-Ray Radio 53</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3643755</blip:posts_id>
+  <blip:item_id>3624596</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-05-14T22:15:59Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5517</blip:runtime>
+  <blip:embedLookup>hZtdgd6zTwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgd6zTwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3643755&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Weird Al Yankovic and Garfunkel & Oates]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Weird Al Yankovic and Garfunkel & Oates
+
+]]></description>
+  <comments>http://blip.tv/file/3624596</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>weird al yankovic</category>
+  <category>garfunkel &amp; oates</category>
+  <pubDate>Fri, 14 May 2010 22:15:59 +0000</pubDate>
+  <enclosure length="66209991" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio53475.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, weird al yankovic, garfunkel &amp; oates</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, weird al yankovic, garfunkel &amp; oates</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="66209991" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio53475.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3624596"><![CDATA[<embed src="http://blip.tv/play/hZtdgd6zTwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 53</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">AB64BA1E-5A22-11DF-A5C8-C098D1FC65CF</guid>
+  <link>http://blip.tv/file/3593551</link>
+  <title>Comedy Death-Ray Radio 52</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3612740</blip:posts_id>
+  <blip:item_id>3593551</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-05-07T21:51:19Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4929</blip:runtime>
+  <blip:embedLookup>hZtdgdzBKAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdzBKAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3612740&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Sarah Silverman, Harris Wittels, & Ben Schwartz]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Sarah Silverman, Harris Wittels, & Ben Schwartz
+
+]]></description>
+  <comments>http://blip.tv/file/3593551</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>paul f. tompkins</category>
+  <category>garry marshall</category>
+  <category>sarah silverman</category>
+  <category>harris wittels</category>
+  <category>ben schwartz</category>
+  <category>funny</category>
+  <pubDate>Fri, 07 May 2010 21:51:19 +0000</pubDate>
+  <enclosure length="59154730" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio52455.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, paul f. tompkins, garry marshall, sarah silverman, harris wittels, ben schwartz, funny</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, paul f. tompkins, garry marshall, sarah silverman, harris wittels, ben schwartz, funny</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="59154730" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio52455.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3593551"><![CDATA[<embed src="http://blip.tv/play/hZtdgdzBKAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 52</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">7E194E14-54B2-11DF-ABE9-DF108E5B3875</guid>
+  <link>http://blip.tv/file/3561862</link>
+  <title>Comedy Death-Ray Radio 51 (Part 2)</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3581059</blip:posts_id>
+  <blip:item_id>3561862</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-30T23:45:44Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4945</blip:runtime>
+  <blip:embedLookup>hZtdgdrJZwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdrJZwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3581059&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Tig Notaro, Rich Fulcher, & Special Guests]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Tig Notaro, Rich Fulcher, & Special Guests
+
+]]></description>
+  <comments>http://blip.tv/file/3561862</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <category>adomian</category>
+  <category>tompkins</category>
+  <category>kroll</category>
+  <category>seth morris</category>
+  <category>ventura</category>
+  <category>howser</category>
+  <category>huell</category>
+  <pubDate>Fri, 30 Apr 2010 23:45:44 +0000</pubDate>
+  <enclosure length="59341257" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio51Part2522.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, adomian, tompkins, kroll, seth morris, ventura, howser, huell</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, adomian, tompkins, kroll, seth morris, ventura, howser, huell</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="59341257" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio51Part2522.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3561862"><![CDATA[<embed src="http://blip.tv/play/hZtdgdrJZwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 51 (Part 2)</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">8683152A-54AE-11DF-8829-E6D5E1312080</guid>
+  <link>http://blip.tv/file/3561766</link>
+  <title>Comedy Death-Ray Radio 51 (Part 1)</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3580963</blip:posts_id>
+  <blip:item_id>3561766</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-30T23:17:20Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3156</blip:runtime>
+  <blip:embedLookup>hZtdgdrJBwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdrJBwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3580963&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Tig Notaro, Rich Fulcher, & Special Guests]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Tig Notaro, Rich Fulcher, & Special Guests
+
+]]></description>
+  <comments>http://blip.tv/file/3561766</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <category>adomian</category>
+  <category>tompkins</category>
+  <category>kroll</category>
+  <category>seth morris</category>
+  <category>ventura</category>
+  <category>howser</category>
+  <category>huell</category>
+  <pubDate>Fri, 30 Apr 2010 23:17:20 +0000</pubDate>
+  <enclosure length="37878635" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio51Part1518.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, adomian, tompkins, kroll, seth morris, ventura, howser, huell</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, adomian, tompkins, kroll, seth morris, ventura, howser, huell</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="37878635" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio51Part1518.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3561766"><![CDATA[<embed src="http://blip.tv/play/hZtdgdrJBwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 51 (Part 1)</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">B91B7E92-4F12-11DF-B03D-BBA24C799689</guid>
+  <link>http://blip.tv/file/3528513</link>
+  <title>Comedy Death-Ray Radio 50</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3547738</blip:posts_id>
+  <blip:item_id>3528513</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-23T19:59:27Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3991</blip:runtime>
+  <blip:embedLookup>hZtdgdjFPgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdjFPgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3547738&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Paul Gilmartin, Mookie Blaiklok, & the cast of The Thrilling Adventure Hour]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Paul Gilmartin, Mookie Blaiklok, & the cast of The Thrilling Adventure Hour
+
+]]></description>
+  <comments>http://blip.tv/file/3528513</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>paul gilmartin</category>
+  <category>mookie blaiklok</category>
+  <category>the thrilling adventure hour</category>
+  <category>comedy death-ray radio</category>
+  <category>comedy death ray</category>
+  <pubDate>Fri, 23 Apr 2010 19:59:27 +0000</pubDate>
+  <enclosure length="47892095" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio50619.mp3"/>
+  <itunes:keywords>scott aukerman, paul gilmartin, mookie blaiklok, the thrilling adventure hour, comedy death-ray radio, comedy death ray</itunes:keywords>
+  <media:keywords>scott aukerman, paul gilmartin, mookie blaiklok, the thrilling adventure hour, comedy death-ray radio, comedy death ray</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="47892095" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio50619.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3528513"><![CDATA[<embed src="http://blip.tv/play/hZtdgdjFPgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 50</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">838692B8-49AD-11DF-9216-C0A08075D368</guid>
+  <link>http://blip.tv/file/3496577</link>
+  <title>Comedy Death-Ray Radio 49</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3515864</blip:posts_id>
+  <blip:item_id>3496577</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-16T23:12:22Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5040</blip:runtime>
+  <blip:embedLookup>hZtdgdbMPAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdbMPAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3515864&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Adam Scott, Matt Walsh, June Raphael, James Pumphrey, & Chris Fairbanks]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Adam Scott, Matt Walsh, June Raphael, James Pumphrey, & Chris Fairbanks
+
+]]></description>
+  <comments>http://blip.tv/file/3496577</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy death ray radio</category>
+  <category>adam scott</category>
+  <category>mat walsh</category>
+  <category>june raphael</category>
+  <category>james pumphrey</category>
+  <category>&amp; chris fairbanks</category>
+  <pubDate>Fri, 16 Apr 2010 23:12:22 +0000</pubDate>
+  <enclosure length="60485411" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio49880.mp3"/>
+  <itunes:keywords>scott aukerman, comedy death ray radio, adam scott, mat walsh, june raphael, james pumphrey, &amp; chris fairbanks</itunes:keywords>
+  <media:keywords>scott aukerman, comedy death ray radio, adam scott, mat walsh, june raphael, james pumphrey, &amp; chris fairbanks</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="60485411" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio49880.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3496577"><![CDATA[<embed src="http://blip.tv/play/hZtdgdbMPAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 49</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">7C93434A-4415-11DF-95F5-BF0FB6B9363F</guid>
+  <link>http://blip.tv/file/3464111</link>
+  <title>Comedy Death-Ray Radio 48</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3483428</blip:posts_id>
+  <blip:item_id>3464111</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-09T20:21:32Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4706</blip:runtime>
+  <blip:embedLookup>hZtdgdTPCAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdTPCAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3483428&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Sklar Brothers, Paul Scheer, & a new song from Weirder Scott.]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Sklar Brothers, Paul Scheer, & a new song from Weirder Scott.
+
+]]></description>
+  <comments>http://blip.tv/file/3464111</comments>
+  <category>Comedy</category>
+  <category>comedy death ray radio</category>
+  <category>scott aukerman</category>
+  <pubDate>Fri, 09 Apr 2010 20:21:32 +0000</pubDate>
+  <enclosure length="56476454" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio48386.mp3"/>
+  <itunes:keywords>comedy death ray radio, scott aukerman</itunes:keywords>
+  <media:keywords>comedy death ray radio, scott aukerman</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="56476454" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio48386.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3464111"><![CDATA[<embed src="http://blip.tv/play/hZtdgdTPCAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 48</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">B25AF1F0-3EA5-11DF-A2A5-C6395331BE19</guid>
+  <link>http://blip.tv/file/3434964</link>
+  <title>Comedy Death-Ray Radio 47</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3454293</blip:posts_id>
+  <blip:item_id>3434964</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-04-02T22:18:42Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4704</blip:runtime>
+  <blip:embedLookup>hZtdgdLrOQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdLrOQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3454293&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Greg Proops & Jon Daly]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Greg Proops & Jon Daly
+
+]]></description>
+  <comments>http://blip.tv/file/3434964</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>greg proops</category>
+  <category>jon daly</category>
+  <category>comedy</category>
+  <category>comedy death ray radio</category>
+  <pubDate>Fri, 02 Apr 2010 22:18:42 +0000</pubDate>
+  <enclosure length="56458583" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio47693.mp3"/>
+  <itunes:keywords>scott aukerman, greg proops, jon daly, comedy, comedy death ray radio</itunes:keywords>
+  <media:keywords>scott aukerman, greg proops, jon daly, comedy, comedy death ray radio</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="56458583" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio47693.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3434964"><![CDATA[<embed src="http://blip.tv/play/hZtdgdLrOQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 47</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">9F26F308-3933-11DF-962F-E5F43DEE55AF</guid>
+  <link>http://blip.tv/file/3402071</link>
+  <title>Comedy Death-Ray Radio 46</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3421420</blip:posts_id>
+  <blip:item_id>3402071</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-03-26T23:59:32Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>7074</blip:runtime>
+  <blip:embedLookup>hZtdgdDqUAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgdDqUAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3421420&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Ben Stiller, Jeff Garlin, Paul F. Tompkins, & Andrew Daly]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Ben Stiller, Jeff Garlin, Paul F. Tompkins, & Andrew Daly
+
+]]></description>
+  <comments>http://blip.tv/file/3402071</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <category>indie 103.1</category>
+  <category>jeff garlin</category>
+  <category>ben stiller</category>
+  <category>paul f. tompkins</category>
+  <category>andy daly</category>
+  <pubDate>Fri, 26 Mar 2010 23:59:32 +0000</pubDate>
+  <enclosure length="84899045" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio46165.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, indie 103.1, jeff garlin, ben stiller, paul f. tompkins, andy daly</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, indie 103.1, jeff garlin, ben stiller, paul f. tompkins, andy daly</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="84899045" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio46165.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3402071"><![CDATA[<embed src="http://blip.tv/play/hZtdgdDqUAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 46</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">72DB9C0A-339C-11DF-A00C-B7CD61A9F980</guid>
+  <link>http://blip.tv/file/3368513</link>
+  <title>Comedy Death-Ray Radio 45</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3387877</blip:posts_id>
+  <blip:item_id>3368513</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-03-19T21:14:47Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3584</blip:runtime>
+  <blip:embedLookup>hZtdgc7kSQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgc7kSQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3387877&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Guest Host Cyber Thug ft. James Adomian, Craig Robinson, David Sitek, Dave Cousin, & Brandon Johnson]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Guest Host Cyber Thug ft. James Adomian, Craig Robinson, David Sitek, Dave Cousin, & Brandon Johnson
+
+]]></description>
+  <comments>http://blip.tv/file/3368513</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>comedy</category>
+  <category>comedy death ray radio</category>
+  <category>jerry minor</category>
+  <category>cyber thug</category>
+  <category>dave sitek</category>
+  <category>tv on the radio</category>
+  <pubDate>Fri, 19 Mar 2010 21:14:47 +0000</pubDate>
+  <enclosure length="43010752" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio45861.mp3"/>
+  <itunes:keywords>scott aukerman, comedy, comedy death ray radio, jerry minor, cyber thug, dave sitek, tv on the radio</itunes:keywords>
+  <media:keywords>scott aukerman, comedy, comedy death ray radio, jerry minor, cyber thug, dave sitek, tv on the radio</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="43010752" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio45861.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3368513"><![CDATA[<embed src="http://blip.tv/play/hZtdgc7kSQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 45</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">603E5B4E-2E2B-11DF-9DE2-F1B26F85EDE1</guid>
+  <link>http://blip.tv/file/3337586</link>
+  <title>Comedy Death-Ray Radio 44</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3356969</blip:posts_id>
+  <blip:item_id>3337586</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-03-12T23:02:47Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4637</blip:runtime>
+  <blip:embedLookup>hZtdgczzDQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgczzDQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3356969&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Nick Kroll, Paul F. Tompkins, & Jason Woliner]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Nick Kroll, Paul F. Tompkins, & Jason Woliner
+
+]]></description>
+  <comments>http://blip.tv/file/3337586</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <category>nick kroll</category>
+  <category>paul f. tompkins</category>
+  <category>jason woliner</category>
+  <pubDate>Fri, 12 Mar 2010 23:02:47 +0000</pubDate>
+  <enclosure length="55652968" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio44279.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, nick kroll, paul f. tompkins, jason woliner</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, nick kroll, paul f. tompkins, jason woliner</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="55652968" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio44279.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3337586"><![CDATA[<embed src="http://blip.tv/play/hZtdgczzDQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 44</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">8A36DFBC-28AD-11DF-B283-D3CBAAF80B79</guid>
+  <link>http://blip.tv/file/3305817</link>
+  <title>Comedy Death-Ray Radio 43</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3325216</blip:posts_id>
+  <blip:item_id>3305817</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-03-05T23:19:25Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4382</blip:runtime>
+  <blip:embedLookup>hZtdgcr7BAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcr7BAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3325216&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Tig Notaro, Casey Wilson, & Rory Scovel]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Tig Notaro, Casey Wilson, & Rory Scovel
+
+]]></description>
+  <comments>http://blip.tv/file/3305817</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <category>tig notaro</category>
+  <category>casey wilson</category>
+  <category>rory scovel</category>
+  <pubDate>Fri, 05 Mar 2010 23:19:25 +0000</pubDate>
+  <enclosure length="52595075" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio43325.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, tig notaro, casey wilson, rory scovel</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman, tig notaro, casey wilson, rory scovel</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="52595075" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio43325.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3305817"><![CDATA[<embed src="http://blip.tv/play/hZtdgcr7BAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 43</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">90AB5FD8-2337-11DF-9E2B-9CE21A65970C</guid>
+  <link>http://blip.tv/file/3275354</link>
+  <title>Comedy Death-Ray Radio 42</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3294774</blip:posts_id>
+  <blip:item_id>3275354</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-02-27T00:32:20Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3816</blip:runtime>
+  <blip:embedLookup>hZtdgcmNGgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcmNGgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3294774&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Nick Thune, Matt Walsh, Ian Roberts, Danielle Schneider & James Pumphrey]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Nick Thune, <span><span>Matt Walsh, Ian Roberts, Danielle Schneider &amp; James Pumphrey</span></span>
+
+]]></description>
+  <comments>http://blip.tv/file/3275354</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>nick thune</category>
+  <category>comedy</category>
+  <category>comedy death ray radio</category>
+  <pubDate>Sat, 27 Feb 2010 00:32:20 +0000</pubDate>
+  <enclosure length="45792788" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio42694.mp3"/>
+  <itunes:keywords>scott aukerman, nick thune, comedy, comedy death ray radio</itunes:keywords>
+  <media:keywords>scott aukerman, nick thune, comedy, comedy death ray radio</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="45792788" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio42694.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3275354"><![CDATA[<embed src="http://blip.tv/play/hZtdgcmNGgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 42</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">4003D5F2-1DAF-11DF-89BE-EC1631C2A257</guid>
+  <link>http://blip.tv/file/3241819</link>
+  <title>Comedy Death-Ray Radio 41</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3261257</blip:posts_id>
+  <blip:item_id>3241819</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-02-19T23:33:57Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4324</blip:runtime>
+  <blip:embedLookup>hZtdgceHLQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgceHLQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3261257&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Aimee Mann, Kumail Nanjiani, & Drew Droege]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Aimee Mann, <span>Kumail Nanjiani, &amp; </span><span><span>Drew Droege</span></span>
+
+]]></description>
+  <comments>http://blip.tv/file/3241819</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <pubDate>Fri, 19 Feb 2010 23:33:57 +0000</pubDate>
+  <enclosure length="51895733" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio41125.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="51895733" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio41125.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3241819"><![CDATA[<embed src="http://blip.tv/play/hZtdgceHLQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 41</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">65318B56-1834-11DF-ABAC-A34FCC9B0AE5</guid>
+  <link>http://blip.tv/file/3212352</link>
+  <title>Comedy Death-Ray Radio 40</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3231808</blip:posts_id>
+  <blip:item_id>3212352</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-02-13T00:11:55Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5040</blip:runtime>
+  <blip:embedLookup>hZtdgcWhJAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcWhJAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3231808&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Doug Benson, James Adomian, Harris Wittels, & Special Guest.]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Doug Benson, James Adomian, Harris Wittels, & Special Guest.
+
+]]></description>
+  <comments>http://blip.tv/file/3212352</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray</category>
+  <category>cdr radio</category>
+  <category>comedy</category>
+  <category>scott aukerman</category>
+  <pubDate>Sat, 13 Feb 2010 00:11:55 +0000</pubDate>
+  <enclosure length="80644422" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio40894.mp3"/>
+  <itunes:keywords>comedy death-ray, cdr radio, comedy, scott aukerman</itunes:keywords>
+  <media:keywords>comedy death-ray, cdr radio, comedy, scott aukerman</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="80644422" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio40894.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3212352"><![CDATA[<embed src="http://blip.tv/play/hZtdgcWhJAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 40</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">96A46C0C-129F-11DF-A791-B979403E2A7D</guid>
+  <link>http://blip.tv/file/3181230</link>
+  <title>Comedy Death-Ray Radio 39</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3200741</blip:posts_id>
+  <blip:item_id>3181230</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-02-05T21:44:08Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3979</blip:runtime>
+  <blip:embedLookup>hZtdgcOuSQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcOuSQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3200741&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Garfunkel & Oates, Seth Morris, & Brendon Walsh]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Garfunkel & Oates, Seth Morris, & Brendon Walsh
+
+]]></description>
+  <comments>http://blip.tv/file/3181230</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 05 Feb 2010 21:44:08 +0000</pubDate>
+  <enclosure length="63670264" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio39417.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="63670264" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio39417.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3181230"><![CDATA[<embed src="http://blip.tv/play/hZtdgcOuSQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 39</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">EF108782-104B-11DF-B325-FC52C33DDB11</guid>
+  <link>http://blip.tv/file/3166569</link>
+  <title>Comedy Death-Ray Radio BONUS EPISODE 03</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3186094</blip:posts_id>
+  <blip:item_id>3166569</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-02-02T22:40:16Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5024</blip:runtime>
+  <blip:embedLookup>hZtdgcK8EgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcK8EgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3186094&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Zach Galifianakis, David Cross, Todd Barry, John Gemberling, & music from Ted Leo (Recorded live at the UCB Theatre NY)]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Zach Galifianakis, David Cross, Todd Barry, John Gemberling, & music from Ted Leo (Recorded live at the UCB Theatre NY)
+
+]]></description>
+  <comments>http://blip.tv/file/3166569</comments>
+  <category>Comedy</category>
+  <pubDate>Tue, 02 Feb 2010 22:40:16 +0000</pubDate>
+  <enclosure length="80396159" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE03143.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="80396159" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE03143.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3166569"><![CDATA[<embed src="http://blip.tv/play/hZtdgcK8EgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio BONUS EPISODE 03</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">142E3366-0D2C-11DF-821F-919D6956CCC4</guid>
+  <link>http://blip.tv/file/3150740</link>
+  <title>Comedy Death-Ray Radio 38</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3170295</blip:posts_id>
+  <blip:item_id>3150740</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-01-29T23:14:41Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3905</blip:runtime>
+  <blip:embedLookup>hZtdgcHAWwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgcHAWwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3170295&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>ComedyDeathRayRadio-ComedyDeathRayRadio38637.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Guest Host Paul F. Tompkins ft. Kaitlin Olson, Matt Gourley, Jeremy Carter, & Mark McConville]]></blip:puredescription>
+  <blip:smallThumbnail>http://a.images.blip.tv/ComedyDeathRayRadio-ComedyDeathRayRadio38637-995.jpg</blip:smallThumbnail>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+<embed src="http://blip.tv/play/hZtdgcHAWwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>
+<br />
+
+Guest Host Paul F. Tompkins ft. Kaitlin Olson, Matt Gourley, Jeremy Carter, & Mark McConville
+
+]]></description>
+  <comments>http://blip.tv/file/3150740</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 29 Jan 2010 23:14:41 +0000</pubDate>
+  <enclosure length="62482019" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio38948.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <itunes:artwork>ComedyDeathRayRadio-ComedyDeathRayRadio38637.jpg</itunes:artwork>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="62482019" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio38948.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3150740"><![CDATA[<embed src="http://blip.tv/play/hZtdgcHAWwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 38</media:title>
+  <media:thumbnail url="http://a.images.blip.tv/ComedyDeathRayRadio-ComedyDeathRayRadio38637.jpg"/>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">7AE77046-07A9-11DF-88FA-F0037F440F2A</guid>
+  <link>http://blip.tv/file/3121019</link>
+  <title>Comedy Death-Ray Radio 37</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3140628</blip:posts_id>
+  <blip:item_id>3121019</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-01-22T22:57:13Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4003</blip:runtime>
+  <blip:embedLookup>hZtdgb_YeAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgb_YeAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3140628&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Sarah Silverman, Todd Glass, & Hannibal Buress]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Sarah Silverman, Todd Glass, & Hannibal Buress
+
+]]></description>
+  <comments>http://blip.tv/file/3121019</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 22 Jan 2010 22:57:13 +0000</pubDate>
+  <enclosure length="64053124" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio37439.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="64053124" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio37439.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3121019"><![CDATA[<embed src="http://blip.tv/play/hZtdgb_YeAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 37</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">E4DE9EB0-0467-11DF-8AB5-A830CE79D874</guid>
+  <link>http://blip.tv/file/3102291</link>
+  <title>Comedy Death-Ray Radio BONUS EPISODE 02</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3121908</blip:posts_id>
+  <blip:item_id>3102291</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-01-18T19:30:11Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>2557</blip:runtime>
+  <blip:embedLookup>hZtdgb7GWAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgb7GWAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3121908&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Doug Benson, Michael Ian Black, Paul F. Tompkins, Dana Gould, & Reggie Watts (Recorded Live at SF Sketch Fest)]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Doug Benson, Michael Ian Black, Paul F. Tompkins, Dana Gould, & Reggie Watts (Recorded Live at SF Sketch Fest)
+
+]]></description>
+  <comments>http://blip.tv/file/3102291</comments>
+  <category>Comedy</category>
+  <pubDate>Mon, 18 Jan 2010 19:30:11 +0000</pubDate>
+  <enclosure length="40921158" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE02712.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="40921158" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE02712.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3102291"><![CDATA[<embed src="http://blip.tv/play/hZtdgb7GWAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio BONUS EPISODE 02</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">63DDE5DC-0228-11DF-A005-A1D2D2E4DE68</guid>
+  <link>http://blip.tv/file/3092222</link>
+  <title>Comedy Death-Ray Radio 36</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3111841</blip:posts_id>
+  <blip:item_id>3092222</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-01-15T22:50:34Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3677</blip:runtime>
+  <blip:embedLookup>hZtdgb34BQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgb34BQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3111841&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Guest Host Cyber Thug ft. Matt Besser & Miles Archer]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Guest Host Cyber Thug ft. Matt Besser & Miles Archer
+
+]]></description>
+  <comments>http://blip.tv/file/3092222</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 15 Jan 2010 22:50:34 +0000</pubDate>
+  <enclosure length="73550394" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio36936.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="73550394" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio36936.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3092222"><![CDATA[<embed src="http://blip.tv/play/hZtdgb34BQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 36</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">298D0BD4-FCA0-11DE-BDFD-B370AFCA1A24</guid>
+  <link>http://blip.tv/file/3062660</link>
+  <title>Comedy Death-Ray Radio 35</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3082293</blip:posts_id>
+  <blip:item_id>3062660</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2010-01-08T21:52:48Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3667</blip:runtime>
+  <blip:embedLookup>hZtdgbyRGQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbyRGQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3082293&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Patton Oswalt, Thomas Lennon, & Brett Gelman]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Patton Oswalt, Thomas Lennon, & Brett Gelman
+
+]]></description>
+  <comments>http://blip.tv/file/3062660</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 08 Jan 2010 21:52:48 +0000</pubDate>
+  <enclosure length="29341051" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio35423.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="29341051" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio35423.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3062660"><![CDATA[<embed src="http://blip.tv/play/hZtdgbyRGQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 35</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">F1909CFC-F3EC-11DE-A90E-B23762544B33</guid>
+  <link>http://blip.tv/file/3022790</link>
+  <title>Comedy Death-Ray Radio "Best Of" 2009</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3042449</blip:posts_id>
+  <blip:item_id>3022790</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-12-28T20:09:45Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5259</blip:runtime>
+  <blip:embedLookup>hZtdgbnZdQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbnZdQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3042449&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman & special guests count down the top ten best moments of the year as voted on by listeners.]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman & special guests count down the top ten best moments of the year as voted on by listeners.<br />
+
+]]></description>
+  <comments>http://blip.tv/file/3022790</comments>
+  <category>Comedy</category>
+  <pubDate>Mon, 28 Dec 2009 20:09:45 +0000</pubDate>
+  <enclosure length="84155144" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBestOf2009326.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="84155144" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBestOf2009326.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/3022790"><![CDATA[<embed src="http://blip.tv/play/hZtdgbnZdQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio "Best Of" 2009</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">5AB366FA-EC32-11DE-88B8-BC2531E383BF</guid>
+  <link>http://blip.tv/file/2991641</link>
+  <title>Comedy Death-Ray Radio 34</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>3011314</blip:posts_id>
+  <blip:item_id>2991641</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-12-19T00:06:28Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4495</blip:runtime>
+  <blip:embedLookup>hZtdgbfmVgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbfmVgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post3011314&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Jon Hamm, Doug Benson, & Special Guests]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Jon Hamm, Doug Benson, & Special Guests
+
+]]></description>
+  <comments>http://blip.tv/file/2991641</comments>
+  <category>Art</category>
+  <pubDate>Sat, 19 Dec 2009 00:06:28 +0000</pubDate>
+  <enclosure length="35961448" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio34457.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="35961448" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio34457.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2991641"><![CDATA[<embed src="http://blip.tv/play/hZtdgbfmVgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 34</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">F75E0D98-E69C-11DE-8B3A-CF66E25F16B8</guid>
+  <link>http://blip.tv/file/2962614</link>
+  <title>Comedy Death-Ray Radio 33</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2982317</blip:posts_id>
+  <blip:item_id>2962614</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-12-11T21:34:30Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4027</blip:runtime>
+  <blip:embedLookup>hZtdgbaEEQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbaEEQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2982317&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Kyle Kinane & Paul F. Tompkins]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Kyle Kinane & Paul F. Tompkins
+
+]]></description>
+  <comments>http://blip.tv/file/2962614</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 11 Dec 2009 21:34:30 +0000</pubDate>
+  <enclosure length="32218491" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio33712.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="32218491" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio33712.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2962614"><![CDATA[<embed src="http://blip.tv/play/hZtdgbaEEQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 33</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">F3DCA25A-E11B-11DE-97BF-ED54174BDE85</guid>
+  <link>http://blip.tv/file/2932007</link>
+  <title>Comedy Death-Ray Radio 32</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2951745</blip:posts_id>
+  <blip:item_id>2932007</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-12-04T21:28:23Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3728</blip:runtime>
+  <blip:embedLookup>hZtdgbSVJQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbSVJQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2951745&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Aziz Ansari, Brendon Small, & Hal Rudnick]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Aziz Ansari, Brendon Small, & Hal Rudnick
+
+]]></description>
+  <comments>http://blip.tv/file/2932007</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 04 Dec 2009 21:28:23 +0000</pubDate>
+  <enclosure length="44738249" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio31945.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="44738249" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio31945.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2932007"><![CDATA[<embed src="http://blip.tv/play/hZtdgbSVJQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 32</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">96574716-DBA3-11DE-8E5A-E9B6986B04E7</guid>
+  <link>http://blip.tv/file/2903295</link>
+  <title>Comedy Death-Ray Radio 31</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2923050</blip:posts_id>
+  <blip:item_id>2903295</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-11-27T22:24:11Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>6102</blip:runtime>
+  <blip:embedLookup>hZtdgbK1DgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbK1DgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2923050&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Michael Cera, Harris Wittels, James Adomian, Paul F. Tompkins, Jimmy Pardo, & Nick Kroll]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Michael Cera, Harris Wittels, James Adomian, Paul F. Tompkins, Jimmy Pardo, & Nick Kroll
+
+]]></description>
+  <comments>http://blip.tv/file/2903295</comments>
+  <category>Comedy</category>
+  <category>michael cera</category>
+  <category>paul f. tompkins</category>
+  <category>nick kroll</category>
+  <category>jimmy pardo</category>
+  <category>harris wittels</category>
+  <category>james adomian</category>
+  <pubDate>Fri, 27 Nov 2009 22:24:11 +0000</pubDate>
+  <enclosure length="97641433" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio31822.mp3"/>
+  <itunes:keywords>michael cera, paul f. tompkins, nick kroll, jimmy pardo, harris wittels, james adomian</itunes:keywords>
+  <media:keywords>michael cera, paul f. tompkins, nick kroll, jimmy pardo, harris wittels, james adomian</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="97641433" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio31822.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2903295"><![CDATA[<embed src="http://blip.tv/play/hZtdgbK1DgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 31</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">2DC96C66-D652-11DE-82E8-970799387C4A</guid>
+  <link>http://blip.tv/file/2877185</link>
+  <title>Comedy Death-Ray Radio 30</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2896979</blip:posts_id>
+  <blip:item_id>2877185</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-11-21T03:58:51Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3887</blip:runtime>
+  <blip:embedLookup>hZtdgbDpNwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgbDpNwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2896979&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Matt Walsh, Howard Kremer, & Dave Holmes]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Matt Walsh, Howard Kremer, & Dave Holmes
+
+]]></description>
+  <comments>http://blip.tv/file/2877185</comments>
+  <category>Comedy</category>
+  <pubDate>Sat, 21 Nov 2009 03:58:51 +0000</pubDate>
+  <enclosure length="62202800" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio30738.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="62202800" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio30738.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2877185"><![CDATA[<embed src="http://blip.tv/play/hZtdgbDpNwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 30</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">B1A52D1A-D222-11DE-96FB-E6A46603B354</guid>
+  <link>http://blip.tv/file/2852334</link>
+  <title>BONUS VIDEO: Do They Know It's Christmas?</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2872142</blip:posts_id>
+  <blip:item_id>2852334</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-11-15T20:08:51Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>267</blip:runtime>
+  <blip:embedLookup>hZtdga+nMgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdga+nMgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2872142&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201-14.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[An all-star comedy Christmas Carol. Directed & Edited by Scott Aukerman.]]></blip:puredescription>
+  <blip:smallThumbnail>http://a.images.blip.tv/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201-14-128.jpg</blip:smallThumbnail>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+<embed src="http://blip.tv/play/hZtdga%2BnMgI" type="application/x-shockwave-flash" width="480" height="350" allowscriptaccess="always" allowfullscreen="true"></embed>
+<br />
+
+<span>An all-star comedy Christmas Carol. Directed &amp; Edited by Scott Aukerman.</span>
+
+]]></description>
+  <comments>http://blip.tv/file/2852334</comments>
+  <category>Comedy</category>
+  <category>paul f. tompkins</category>
+  <category>r.o. manse</category>
+  <category>tig notaro</category>
+  <category>rob huebel</category>
+  <category>patton oswalt</category>
+  <category>mike phirman</category>
+  <category>jimmy pardo</category>
+  <category>brian posehn</category>
+  <category>scott aukerman</category>
+  <category>garfunkel &amp; oates</category>
+  <category>aimee mann</category>
+  <category>chris hardwick</category>
+  <category>paul scheer</category>
+  <category>june diane raphael</category>
+  <category>doug benson</category>
+  <category>mary lynn rajskub</category>
+  <category>nick thune</category>
+  <category>weird al yankovic</category>
+  <category>crac</category>
+  <pubDate>Sun, 15 Nov 2009 20:08:51 +0000</pubDate>
+  <enclosure length="97449870" type="video/msvideo" url="http://blip.tv/file/get/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201.avi"/>
+  <itunes:keywords>paul f. tompkins, r.o. manse, tig notaro, rob huebel, patton oswalt, mike phirman, jimmy pardo, brian posehn, scott aukerman, garfunkel &amp; oates, aimee mann, chris hardwick, paul scheer, june diane raphael, doug benson, mary lynn rajskub, nick thune, weird al yankovic, crac</itunes:keywords>
+  <itunes:artwork>ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201-14.jpg</itunes:artwork>
+  <media:keywords>paul f. tompkins, r.o. manse, tig notaro, rob huebel, patton oswalt, mike phirman, jimmy pardo, brian posehn, scott aukerman, garfunkel &amp; oates, aimee mann, chris hardwick, paul scheer, june diane raphael, doug benson, mary lynn rajskub, nick thune, weird al yankovic, crac</media:keywords>
+  <media:group>
+    <media:content blip:acodec="pcm" blip:role="Source" blip:vcodec="ffcvid" expression="full" fileSize="97449870" height="480" isDefault="true" type="video/msvideo" url="http://blip.tv/file/get/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201.avi" width="720"></media:content>
+    <media:content blip:acodec="mp3" blip:role="Web" blip:vcodec="ffvp6f" expression="full" fileSize="17074550" height="480" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas316.flv" width="720"></media:content>
+    <media:content blip:acodec="faad" blip:role="Portable (iPod)" blip:vcodec="ffodivx" expression="full" fileSize="12462088" height="288" isDefault="false" type="video/mp4" url="http://blip.tv/file/get/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas875.mp4" width="352"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2852334"><![CDATA[<embed src="http://blip.tv/play/hZtdga%2BnMgI" type="application/x-shockwave-flash" width="480" height="350" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>BONUS VIDEO: Do They Know It's Christmas?</media:title>
+  <media:thumbnail url="http://a.images.blip.tv/ComedyDeathRayRadio-BONUSVIDEODoTheyKnowItsChristmas201-14.jpg"/>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">6373E262-D09C-11DE-A438-DE44ED9F4624</guid>
+  <link>http://blip.tv/file/2846493</link>
+  <title>Comedy Death-Ray Radio 29</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2866302</blip:posts_id>
+  <blip:item_id>2846493</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-11-13T21:34:56Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3673</blip:runtime>
+  <blip:embedLookup>hZtdga75YgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdga75YgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2866302&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Ben Schwartz, Chip Pope, & James Adomian]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Ben Schwartz, Chip Pope, & James Adomian
+
+]]></description>
+  <comments>http://blip.tv/file/2846493</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 13 Nov 2009 21:34:56 +0000</pubDate>
+  <enclosure length="29390161" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio29282.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="29390161" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio29282.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2846493"><![CDATA[<embed src="http://blip.tv/play/hZtdga75YgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 29</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">A7094A2E-CB1C-11DE-B876-CEDAF0151828</guid>
+  <link>http://blip.tv/file/2817803</link>
+  <title>Comedy Death-Ray Radio 28</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2837649</blip:posts_id>
+  <blip:item_id>2817803</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-11-06T21:37:59Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3978</blip:runtime>
+  <blip:embedLookup>hZtdga2ZdQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdga2ZdQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2837649&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Paul F. Tompkins, Todd Glass, & Jon Daly]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Paul F. Tompkins, Todd Glass, & Jon Daly
+
+]]></description>
+  <comments>http://blip.tv/file/2817803</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 06 Nov 2009 21:37:59 +0000</pubDate>
+  <enclosure length="31826863" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio28896.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="31826863" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio28896.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2817803"><![CDATA[<embed src="http://blip.tv/play/hZtdga2ZdQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 28</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">0365589C-C593-11DE-9C6D-90409317A148</guid>
+  <link>http://blip.tv/file/2789546</link>
+  <title>Comedy Death-Ray Radio 27</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2809411</blip:posts_id>
+  <blip:item_id>2789546</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-30T20:30:07Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>2313</blip:runtime>
+  <blip:embedLookup>hZtdgau9JwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgau9JwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2809411&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Comedy Death-Ray Radio gets taken over by guest host Cyber Thug, with Miles Archer, Bobby Bottleservice, and Jerry O'Connell]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Comedy Death-Ray Radio gets taken over by guest host Cyber Thug, with Miles Archer, Bobby Bottleservice, and Jerry O'Connell
+
+]]></description>
+  <comments>http://blip.tv/file/2789546</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 30 Oct 2009 20:30:07 +0000</pubDate>
+  <enclosure length="18511519" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay27430.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="18511519" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay27430.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2789546"><![CDATA[<embed src="http://blip.tv/play/hZtdgau9JwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 27</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">A5468472-C013-11DE-B0FD-D6A54E06B97D</guid>
+  <link>http://blip.tv/file/2760466</link>
+  <title>Comedy Death-Ray Radio 26</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2780339</blip:posts_id>
+  <blip:item_id>2760466</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-23T20:35:47Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3721</blip:runtime>
+  <blip:embedLookup>hZtdganaFwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdganaFwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2780339&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Sarah Silverman and Andy Richter]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Sarah Silverman and Andy Richter
+
+]]></description>
+  <comments>http://blip.tv/file/2760466</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 23 Oct 2009 20:35:47 +0000</pubDate>
+  <enclosure length="29775728" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio26653.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="29775728" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio26653.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2760466"><![CDATA[<embed src="http://blip.tv/play/hZtdganaFwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 26</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">F3EBF72E-BA91-11DE-91A1-F77D31C40CA7</guid>
+  <link>http://blip.tv/file/2730243</link>
+  <title>Comedy Death-Ray Radio 25</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2750127</blip:posts_id>
+  <blip:item_id>2730243</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-16T20:24:49Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4028</blip:runtime>
+  <blip:embedLookup>hZtdgafuEwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgafuEwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2750127&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Neil Hamburger, Mike O'Connell & Brent Weinbach]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Neil Hamburger, Mike O'Connell & Brent Weinbach
+
+]]></description>
+  <comments>http://blip.tv/file/2730243</comments>
+  <category>Comedy</category>
+  <category>scott aukerman ft. neil hamburger</category>
+  <category>mike oconnell &amp; brent weinbach comedy death-ray radio 25 indie 1031</category>
+  <pubDate>Fri, 16 Oct 2009 20:24:49 +0000</pubDate>
+  <enclosure length="32227059" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio25489.mp3"/>
+  <itunes:keywords>scott aukerman ft. neil hamburger, mike oconnell &amp; brent weinbach comedy death-ray radio 25 indie 1031</itunes:keywords>
+  <media:keywords>scott aukerman ft. neil hamburger, mike oconnell &amp; brent weinbach comedy death-ray radio 25 indie 1031</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="32227059" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio25489.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2730243"><![CDATA[<embed src="http://blip.tv/play/hZtdgafuEwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 25</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">24D2BDEC-B514-11DE-9910-E0D387476F68</guid>
+  <link>http://blip.tv/file/2702769</link>
+  <title>Comedy Death-Ray Radio 24</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2722656</blip:posts_id>
+  <blip:item_id>2702769</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-09T20:41:39Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3780</blip:runtime>
+  <blip:embedLookup>hZtdgaaXRAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgaaXRAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2722656&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Nick Swardson, Matt Walsh, James Adomian and Paul F Tompkins!!]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Nick Swardson, Matt Walsh, James Adomian and Paul F Tompkins!!
+
+]]></description>
+  <comments>http://blip.tv/file/2702769</comments>
+  <category>Comedy</category>
+  <category>scott aukerman ft. nick swardson</category>
+  <category>matt walsh</category>
+  <category>james adomian and paul f tompkins comedy death-ray radio 24 indie 1031</category>
+  <pubDate>Fri, 09 Oct 2009 20:41:39 +0000</pubDate>
+  <enclosure length="30245305" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio24501.mp3"/>
+  <itunes:keywords>scott aukerman ft. nick swardson, matt walsh, james adomian and paul f tompkins comedy death-ray radio 24 indie 1031</itunes:keywords>
+  <media:keywords>scott aukerman ft. nick swardson, matt walsh, james adomian and paul f tompkins comedy death-ray radio 24 indie 1031</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="30245305" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio24501.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2702769"><![CDATA[<embed src="http://blip.tv/play/hZtdgaaXRAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 24</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">13CC32EC-B368-11DE-9650-F2BDD7C7DA17</guid>
+  <link>http://blip.tv/file/2692638</link>
+  <title>Comedy Death-Ray Radio 22</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2712528</blip:posts_id>
+  <blip:item_id>2692638</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-07T17:37:25Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3638</blip:runtime>
+  <blip:embedLookup>hZtdgaXINAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgaXINAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2712528&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Guest host Jimmy Pardo ft. Dana Gould, Matt Belknap & special guests]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Guest host Jimmy Pardo ft. Dana Gould, Matt Belknap & special guests
+
+]]></description>
+  <comments>http://blip.tv/file/2692638</comments>
+  <category>Comedy</category>
+  <pubDate>Wed, 07 Oct 2009 17:37:25 +0000</pubDate>
+  <enclosure length="43660823" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio22348.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="43660823" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio22348.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2692638"><![CDATA[<embed src="http://blip.tv/play/hZtdgaXINAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 22</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">A90368B6-AF90-11DE-BDBE-B180ABD318C3</guid>
+  <link>http://blip.tv/file/2674017</link>
+  <title>Comedy Death-Ray Radio 23</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2693910</blip:posts_id>
+  <blip:item_id>2674017</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-10-02T20:17:51Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3711</blip:runtime>
+  <blip:embedLookup>hZtdgaS2egI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgaS2egI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2693910&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Guest Host Paul F. Tompkins ft. "Weird Al" Yankovic and Tig Notaro]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Guest Host Paul F. Tompkins ft. "Weird Al" Yankovic and Tig Notaro
+
+]]></description>
+  <comments>http://blip.tv/file/2674017</comments>
+  <category>Comedy</category>
+  <category>weird</category>
+  <category>al</category>
+  <category>yankovic</category>
+  <pubDate>Fri, 02 Oct 2009 20:17:51 +0000</pubDate>
+  <enclosure length="29692136" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay23589.mp3"/>
+  <itunes:keywords>weird, al, yankovic</itunes:keywords>
+  <media:keywords>weird, al, yankovic</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="29692136" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay23589.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2674017"><![CDATA[<embed src="http://blip.tv/play/hZtdgaS2egI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 23</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">5EFA1D72-AC67-11DE-AF14-EF8F97110578</guid>
+  <link>http://blip.tv/file/2655686</link>
+  <title>Comedy Death-Ray Radio BONUS EPISODE 01</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2675588</blip:posts_id>
+  <blip:item_id>2655686</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-09-28T19:44:44Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4476</blip:runtime>
+  <blip:embedLookup>hZtdgaOnaAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgaOnaAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2675588&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Reggie Watts, Nick Thune, Todd Barry, Paul F. Tompkins and Garfunkel & Oates. Recorded LIVE at the Vancouver Comedy Fest.]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Reggie Watts, Nick Thune, Todd Barry, Paul F. Tompkins and Garfunkel & Oates. Recorded LIVE at the Vancouver Comedy Fest.
+
+]]></description>
+  <comments>http://blip.tv/file/2655686</comments>
+  <category>Comedy</category>
+  <category>comedy death-ray radio scott aukerman ft. reggie watts</category>
+  <category>nick thune</category>
+  <category>todd barry</category>
+  <category>paul f. tompkins and garfunkel &amp; oates</category>
+  <category>vancouver comedy fest</category>
+  <category>ucb</category>
+  <pubDate>Mon, 28 Sep 2009 19:44:44 +0000</pubDate>
+  <enclosure length="71631273" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE01447.mp3"/>
+  <itunes:keywords>comedy death-ray radio scott aukerman ft. reggie watts, nick thune, todd barry, paul f. tompkins and garfunkel &amp; oates, vancouver comedy fest, ucb</itunes:keywords>
+  <media:keywords>comedy death-ray radio scott aukerman ft. reggie watts, nick thune, todd barry, paul f. tompkins and garfunkel &amp; oates, vancouver comedy fest, ucb</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="71631273" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadioBONUSEPISODE01447.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2655686"><![CDATA[<embed src="http://blip.tv/play/hZtdgaOnaAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio BONUS EPISODE 01</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">E3A0FE42-A492-11DE-B3FF-BC0BFE8C9CA5</guid>
+  <link>http://blip.tv/file/2619929</link>
+  <title>Comedy Death-Ray Radio 21</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2639867</blip:posts_id>
+  <blip:item_id>2619929</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-09-18T20:36:05Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3609</blip:runtime>
+  <blip:embedLookup>hZtdgaGQXwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgaGQXwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2639867&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Chris Hardwick, Charlyne Yi, and Seth Morris]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Chris Hardwick, Charlyne Yi, and Seth Morris
+
+]]></description>
+  <comments>http://blip.tv/file/2619929</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 18 Sep 2009 20:36:05 +0000</pubDate>
+  <enclosure length="57750154" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay21684.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="57750154" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay21684.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2619929"><![CDATA[<embed src="http://blip.tv/play/hZtdgaGQXwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 21</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">D94425FC-9F13-11DE-A143-E63A00025A71</guid>
+  <link>http://blip.tv/file/2591989</link>
+  <title>Comedy Death-Ray Radio 20</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2611940</blip:posts_id>
+  <blip:item_id>2591989</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-09-11T20:44:06Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3926</blip:runtime>
+  <blip:embedLookup>hZtdgZ+2SAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZ+2SAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2611940&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Mary Lynn Rajskub. Reggie Watts, Rory Scovel. Premiere of Scott Aukerman's brand new single: Tangelo!]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+<p>Scott Aukerman ft. Mary Lynn Rajskub. Reggie Watts, Rory Scovel. Premiere of Scott Aukerman's brand new single: Tangelo!</p><p></p>
+
+]]></description>
+  <comments>http://blip.tv/file/2591989</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 11 Sep 2009 20:44:06 +0000</pubDate>
+  <enclosure length="94236946" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio372.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="94236946" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio372.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2591989"><![CDATA[<embed src="http://blip.tv/play/hZtdgZ%2B2SAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 20</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">4F85BE84-9EFA-11DE-A1A3-F7A475AEB5CA</guid>
+  <link>http://blip.tv/file/2591247</link>
+  <title>Comedy Death-Ray Radio 19</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2611199</blip:posts_id>
+  <blip:item_id>2591247</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-09-11T17:41:18Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3789</blip:runtime>
+  <blip:embedLookup>hZtdgZ+wYwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZ+wYwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2611199&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. SNL's Kevin Nealon, Laraine Newman & Casey Wilson.]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. SNL's Kevin Nealon, Laraine Newman & Casey Wilson.
+
+]]></description>
+  <comments>http://blip.tv/file/2591247</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 11 Sep 2009 17:41:18 +0000</pubDate>
+  <enclosure length="90958683" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio283.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="90958683" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio283.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2591247"><![CDATA[<embed src="http://blip.tv/play/hZtdgZ%2BwYwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 19</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">6048D852-9417-11DE-9310-86CBE8A4B4A9</guid>
+  <link>http://blip.tv/file/2528447</link>
+  <title>Comedy Death-Ray Radio 18</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2548452</blip:posts_id>
+  <blip:item_id>2528447</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-08-28T21:11:38Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4695</blip:runtime>
+  <blip:embedLookup>hZtdgZvGSAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZvGSAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2548452&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Andy Kindler, Jerry Minor, & Brendon Walsh]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Andy Kindler, Jerry Minor, & Brendon Walsh
+
+]]></description>
+  <comments>http://blip.tv/file/2528447</comments>
+  <category>Comedy</category>
+  <category>comedy</category>
+  <category>death</category>
+  <category>ray</category>
+  <category>radio</category>
+  <pubDate>Fri, 28 Aug 2009 21:11:38 +0000</pubDate>
+  <enclosure length="37562308" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio18802.mp3"/>
+  <itunes:keywords>comedy, death, ray, radio</itunes:keywords>
+  <media:keywords>comedy, death, ray, radio</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="37562308" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio18802.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2528447"><![CDATA[<embed src="http://blip.tv/play/hZtdgZvGSAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 18</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">B3D28288-90E9-11DE-AB7D-844E56425DC1</guid>
+  <link>http://blip.tv/file/2511965</link>
+  <title>Comedy Death-Ray Radio 17</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2531975</blip:posts_id>
+  <blip:item_id>2511965</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-08-24T20:07:08Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4071</blip:runtime>
+  <blip:embedLookup>hZtdgZrFawI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZrFawI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2531975&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Thomas Lennon, Matt Walsh, and Matt Braunger]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Thomas Lennon, Matt Walsh, and Matt Braunger
+
+]]></description>
+  <comments>http://blip.tv/file/2511965</comments>
+  <category>Comedy</category>
+  <pubDate>Mon, 24 Aug 2009 20:07:08 +0000</pubDate>
+  <enclosure length="32569576" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio17959.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="32569576" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio17959.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2511965"><![CDATA[<embed src="http://blip.tv/play/hZtdgZrFawI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 17</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">B39A64EE-8D0A-11DE-91D0-97680575F0D8</guid>
+  <link>http://blip.tv/file/2494107</link>
+  <title>Comedy Death-Ray Radio 16</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2514120</blip:posts_id>
+  <blip:item_id>2494107</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-08-19T21:53:17Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4640</blip:runtime>
+  <blip:embedLookup>hZtdgZm6LAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZm6LAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2514120&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Andy Dick, Bob Odenkirk, & Chelsea Peretti]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Andy Dick, Bob Odenkirk, & Chelsea Peretti
+
+]]></description>
+  <comments>http://blip.tv/file/2494107</comments>
+  <category>Comedy</category>
+  <category>scott aukerman</category>
+  <category>andy dick</category>
+  <category>bob odenkirk</category>
+  <category>chelsea peretti</category>
+  <pubDate>Wed, 19 Aug 2009 21:53:17 +0000</pubDate>
+  <enclosure length="37124496" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio16275.mp3"/>
+  <itunes:keywords>scott aukerman, andy dick, bob odenkirk, chelsea peretti</itunes:keywords>
+  <media:keywords>scott aukerman, andy dick, bob odenkirk, chelsea peretti</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="37124496" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio16275.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2494107"><![CDATA[<embed src="http://blip.tv/play/hZtdgZm6LAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 16</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">9661D50A-8397-11DE-9AC0-B399E2D77467</guid>
+  <link>http://blip.tv/file/2450866</link>
+  <title>Comedy Death-Ray Radio 15</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2470882</blip:posts_id>
+  <blip:item_id>2450866</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-08-07T21:16:35Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>5206</blip:runtime>
+  <blip:embedLookup>hZtdgZboRgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZboRgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2470882&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Steve Agee, Natasha Leggero, and Matt Besser]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Steve Agee, Natasha Leggero, and Matt Besser
+
+]]></description>
+  <comments>http://blip.tv/file/2450866</comments>
+  <category>Comedy</category>
+  <pubDate>Fri, 07 Aug 2009 21:16:35 +0000</pubDate>
+  <enclosure length="62482811" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio15259.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="62482811" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio15259.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2450866"><![CDATA[<embed src="http://blip.tv/play/hZtdgZboRgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 15</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">619EB8AC-7E1E-11DE-A396-D5FBB60B11B9</guid>
+  <link>http://blip.tv/file/2425660</link>
+  <title>Comedy Death-Ray Radio 14</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2445694</blip:posts_id>
+  <blip:item_id>2425660</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-07-31T22:06:22Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4560</blip:runtime>
+  <blip:embedLookup>hZtdgZWjYgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZWjYgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2445694&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Andy Samberg, Zach Galifianakis, & Andrew Daly]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Andy Samberg, Zach Galifianakis, & Andrew Daly
+
+]]></description>
+  <comments>http://blip.tv/file/2425660</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 31 Jul 2009 22:06:22 +0000</pubDate>
+  <enclosure length="36481883" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio14356.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="36481883" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio14356.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2425660"><![CDATA[<embed src="http://blip.tv/play/hZtdgZWjYgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 14</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">70EEBBEE-7893-11DE-88A9-861BEC3D15A5</guid>
+  <link>http://blip.tv/file/2398327</link>
+  <title>Comedy Death-Ray Radio 13</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2418368</blip:posts_id>
+  <blip:item_id>2398327</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-07-24T20:49:11Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4528</blip:runtime>
+  <blip:embedLookup>hZtdgZPOJAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZPOJAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2418368&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Jimmy Pardo fills in for Scott Aukerman]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Jimmy Pardo fills in for Scott Aukerman
+
+]]></description>
+  <comments>http://blip.tv/file/2398327</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 24 Jul 2009 20:49:11 +0000</pubDate>
+  <enclosure length="36226301" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio13915.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="36226301" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio13915.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2398327"><![CDATA[<embed src="http://blip.tv/play/hZtdgZPOJAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 13</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">97415C48-7316-11DE-BDF7-F4569C7710A6</guid>
+  <link>http://blip.tv/file/2371886</link>
+  <title>Comedy Death-Ray Radio 12</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2391949</blip:posts_id>
+  <blip:item_id>2371886</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-07-17T21:12:53Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4286</blip:runtime>
+  <blip:embedLookup>hZtdgZH_cQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZH_cQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2391949&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft Jon Hamm, Howard Kremer, Nick Kroll, and Doug Benson!!]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft Jon Hamm, Howard Kremer, Nick Kroll, and Doug Benson!!
+
+]]></description>
+  <comments>http://blip.tv/file/2371886</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 17 Jul 2009 21:12:53 +0000</pubDate>
+  <enclosure length="34291777" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay12948.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="34291777" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay12948.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2371886"><![CDATA[<embed src="http://blip.tv/play/hZtdgZH_cQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 12</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">66166836-6D92-11DE-A03B-C3A11CBB27FF</guid>
+  <link>http://blip.tv/file/2344188</link>
+  <title>Comedy Death-Ray Radio 11</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2364272</blip:posts_id>
+  <blip:item_id>2344188</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-07-10T20:44:01Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4468</blip:runtime>
+  <blip:embedLookup>hZtdgZCnVAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgZCnVAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2364272&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Doug Benson (in studio) and Rob Huebel]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Doug Benson (in studio) and Rob Huebel
+
+]]></description>
+  <comments>http://blip.tv/file/2344188</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 10 Jul 2009 20:44:01 +0000</pubDate>
+  <enclosure length="35750455" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio11353.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="35750455" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio11353.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2344188"><![CDATA[<embed src="http://blip.tv/play/hZtdgZCnVAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 11</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">F42BF9DA-6827-11DE-A871-B9C607A0CC6B</guid>
+  <link>http://blip.tv/file/2317673</link>
+  <title>Comedy Death-Ray Radio 10</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2336514</blip:posts_id>
+  <blip:item_id>2317673</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-07-03T23:19:27Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4802</blip:runtime>
+  <blip:embedLookup>hZtdgY7OZgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgY7OZgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2336514&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Aimee Mann, Morgan Murphy, and Seth Morris]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Aimee Mann, Morgan Murphy, and Seth Morris
+
+]]></description>
+  <comments>http://blip.tv/file/2317673</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 03 Jul 2009 23:19:27 +0000</pubDate>
+  <enclosure length="38419542" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio10634.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="38419542" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio10634.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2317673"><![CDATA[<embed src="http://blip.tv/play/hZtdgY7OZgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 10</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">54A2DE24-6291-11DE-8AAA-C86497C27C81</guid>
+  <link>http://blip.tv/file/2289930</link>
+  <title>Comedy Death-Ray Radio 09</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2304666</blip:posts_id>
+  <blip:item_id>2289930</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-06-26T20:38:39Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>2888</blip:runtime>
+  <blip:embedLookup>hZtdgYzVfgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYzVfgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2304666&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Dax Shepard & Chip Pope with a call from Paul F. Tompkins]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Dax Shepard & Chip Pope with a call from Paul F. Tompkins
+
+]]></description>
+  <comments>http://blip.tv/file/2289930</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 26 Jun 2009 20:38:39 +0000</pubDate>
+  <enclosure length="23111369" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio09875.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="23111369" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio09875.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2289930"><![CDATA[<embed src="http://blip.tv/play/hZtdgYzVfgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 09</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">1929DD9E-5D3B-11DE-B3E4-E75A894AE34A</guid>
+  <link>http://blip.tv/file/2263557</link>
+  <title>Comedy Death-Ray Radio 08</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2275841</blip:posts_id>
+  <blip:item_id>2263557</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-06-20T01:38:47Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4845</blip:runtime>
+  <blip:embedLookup>hZtdgYr0ZQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYr0ZQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2275841&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. "Weird Al" Yankovic, Paul Scheer, and Doug Benson. World premiere of Weird Al's genius new track, "Craigslist"]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+<p><strong>Scott Aukerman ft. "Weird Al" Yankovic, Paul Scheer, and Doug Benson. </strong></p><p><strong><em>World premiere of Weird Al's genius new track, "Craigslist"</em></strong></p>
+
+]]></description>
+  <comments>http://blip.tv/file/2263557</comments>
+  <category>Default Category</category>
+  <category>weird</category>
+  <category>al</category>
+  <category>yankovic</category>
+  <pubDate>Sat, 20 Jun 2009 01:38:47 +0000</pubDate>
+  <enclosure length="58143279" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay08285.mp3"/>
+  <itunes:keywords>weird, al, yankovic</itunes:keywords>
+  <media:keywords>weird, al, yankovic</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="58143279" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRay08285.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2263557"><![CDATA[<embed src="http://blip.tv/play/hZtdgYr0ZQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 08</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">105A388A-59E9-11DE-A325-8AC711F13420</guid>
+  <link>http://blip.tv/file/2244653</link>
+  <title>Comedy Death-Ray Radio 07</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2256150</blip:posts_id>
+  <blip:item_id>2244653</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-06-15T20:14:00Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>4145</blip:runtime>
+  <blip:embedLookup>hZtdgYnaegI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYnaegI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2256150&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman, The Sklar Brothers, Paul Rust, Paul F. Tompkins & Doug Benson]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman, The Sklar Brothers, Paul Rust, Paul F. Tompkins & Doug Benson
+
+]]></description>
+  <comments>http://blip.tv/file/2244653</comments>
+  <category>Default Category</category>
+  <pubDate>Mon, 15 Jun 2009 20:14:00 +0000</pubDate>
+  <enclosure length="49750514" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio07245.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="49750514" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio07245.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2244653"><![CDATA[<embed src="http://blip.tv/play/hZtdgYnaegI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 07</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">63B68E7E-5215-11DE-817B-C1A5C0702EBA</guid>
+  <link>http://blip.tv/file/2205846</link>
+  <title>Comedy Death-Ray Radio 06</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2216730</blip:posts_id>
+  <blip:item_id>2205846</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-06-05T21:11:08Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3970</blip:runtime>
+  <blip:embedLookup>hZtdgYemfgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYemfgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2216730&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Brett Gelman, Howard Kremer, & a call from Sarah Silverman]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Brett Gelman, Howard Kremer, & a call from Sarah Silverman
+
+]]></description>
+  <comments>http://blip.tv/file/2205846</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 05 Jun 2009 21:11:08 +0000</pubDate>
+  <enclosure length="31764169" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio06101.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="31764169" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio06101.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2205846"><![CDATA[<embed src="http://blip.tv/play/hZtdgYemfgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 06</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">AB8950EA-51F9-11DE-951A-8A9FCE2519F8</guid>
+  <link>http://blip.tv/file/2205019</link>
+  <title>Comedy Death-Ray Radio 05</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2215901</blip:posts_id>
+  <blip:item_id>2205019</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-06-05T17:52:43Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3123</blip:runtime>
+  <blip:embedLookup>hZtdgYegQQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYegQQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2215901&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Special guest host Jimmy Pardo]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Special guest host Jimmy Pardo
+
+]]></description>
+  <comments>http://blip.tv/file/2205019</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 05 Jun 2009 17:52:43 +0000</pubDate>
+  <enclosure length="24987379" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio05978.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="24987379" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio05978.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2205019"><![CDATA[<embed src="http://blip.tv/play/hZtdgYegQQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 05</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">05BEC65C-4710-11DE-97EC-F16AAB710332</guid>
+  <link>http://blip.tv/file/2148018</link>
+  <title>Comedy Death-Ray Radio 04</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2158685</blip:posts_id>
+  <blip:item_id>2148018</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-22T20:35:00Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3753</blip:runtime>
+  <blip:embedLookup>hZtdgYPhQQI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYPhQQI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2158685&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Special guest host Chris Hardwick ft. Mike Phirman and Matt Mira]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Special guest host Chris Hardwick ft. Mike Phirman and Matt Mira
+
+]]></description>
+  <comments>http://blip.tv/file/2148018</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 22 May 2009 20:35:00 +0000</pubDate>
+  <enclosure length="30026504" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio04714.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="30026504" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio04714.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2148018"><![CDATA[<embed src="http://blip.tv/play/hZtdgYPhQQI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 04</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">A60A3FFA-4707-11DE-B8DD-F1151E1D5F3D</guid>
+  <link>http://blip.tv/file/2147803</link>
+  <title>Comedy Death-Ray Radio 03</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2158468</blip:posts_id>
+  <blip:item_id>2147803</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-22T19:35:04Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3330</blip:runtime>
+  <blip:embedLookup>hZtdgYPfaAI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYPfaAI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2158468&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Greg Behrendt, Jackie Clarke and Nick Thune]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Greg Behrendt, Jackie Clarke and Nick Thune
+
+]]></description>
+  <comments>http://blip.tv/file/2147803</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 22 May 2009 19:35:04 +0000</pubDate>
+  <enclosure length="39963834" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio03262.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="39963834" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio03262.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2147803"><![CDATA[<embed src="http://blip.tv/play/hZtdgYPfaAI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 03</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">80102D4C-4706-11DE-8F37-E92574C8E5C4</guid>
+  <link>http://blip.tv/file/2147774</link>
+  <title>Comedy Death-Ray Radio 01</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2158439</blip:posts_id>
+  <blip:item_id>2147774</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-22T19:26:51Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3749</blip:runtime>
+  <blip:embedLookup>hZtdgYPfSwI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYPfSwI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2158439&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Thomas Lennon & Rob Huebel]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Thomas Lennon & Rob Huebel
+
+]]></description>
+  <comments>http://blip.tv/file/2147774</comments>
+  <category>Default Category</category>
+  <pubDate>Fri, 22 May 2009 19:26:51 +0000</pubDate>
+  <enclosure length="44991883" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio01505.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="44991883" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio01505.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2147774"><![CDATA[<embed src="http://blip.tv/play/hZtdgYPfSwI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 01</media:title>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">C917095C-3E55-11DE-AB57-FC7A22CDADB9</guid>
+  <link>http://blip.tv/file/2099028</link>
+  <title>Comedy Death-Ray Radio 02</title>
+  <blip:user>Comedy Death Ray Radio</blip:user>
+  <blip:userid>372792</blip:userid>
+  <blip:safeusername>comedydeathrayradio</blip:safeusername>
+  <blip:show>Comedy Death-Ray Radio</blip:show>
+  <blip:showpage>http://comedydeathray.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2109514</blip:posts_id>
+  <blip:item_id>2099028</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-UN</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-11T18:01:43Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>Audio</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:core>0</blip:core>
+  <blip:adminRating>2</blip:adminRating>
+  <blip:runtime>3045</blip:runtime>
+  <blip:embedLookup>hZtdgYDhLgI</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/hZtdgYDhLgI</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2109514&amp;skin=rss</wfw:commentRss>
+  <blip:puredescription><![CDATA[Scott Aukerman ft. Aziz Ansari & Kevin Nealon]]></blip:puredescription>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+Scott Aukerman ft. Aziz Ansari & Kevin Nealon
+
+]]></description>
+  <comments>http://blip.tv/file/2099028</comments>
+  <category>Default Category</category>
+  <pubDate>Mon, 11 May 2009 18:01:43 +0000</pubDate>
+  <enclosure length="36541689" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio02938.mp3"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" expression="full" fileSize="36541689" isDefault="true" type="audio/mpeg" url="http://blip.tv/file/get/ComedyDeathRayRadio-ComedyDeathRayRadio02938.mp3"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2099028"><![CDATA[<embed src="http://blip.tv/play/hZtdgYDhLgI" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>]]></media:player>
+  <media:title>Comedy Death-Ray Radio 02</media:title>
+</item>
+
+
+
+
+
+
+</channel>
+</rss>

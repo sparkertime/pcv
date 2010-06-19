@@ -1,4 +1,5 @@
 require 'spec_helper'
+include RssFixture
 
 describe Feed do
   describe "instance creation" do
@@ -48,9 +49,25 @@ describe Feed do
     end
     
     it "should not require http in the url" do
-      feed = Factory(:feed, :url => 'example.com')
-      feed.reload
+      feed = Factory.build(:feed, :url => 'example.com')
+
       feed.url.should == 'http://example.com'
+    end
+
+    it "should not add http:// if present" do
+      feed = Factory.build(:feed, :url => 'http://example.com')
+
+      feed.url.should == 'http://example.com'
+    end
+  end
+
+  describe "items" do
+    it "should load the file from the url" do
+      FakeWeb.register_uri(:get, rss_url, :body => rss)
+      feed = Factory.build(:feed, :url => rss_url)
+
+
+      feed.items.should be_present
     end
   end
 end
