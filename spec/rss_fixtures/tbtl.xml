@@ -2,16 +2,16 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" >
   <channel>
     <title>Too Beautiful to Live with Luke Burbank - News Talk 97.3. KIRO FM Seattle, WA</title> 
-	<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+    <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
     <link>http://www.mynorthwest.com/tbtl/</link> 
     <description>Radio That Will Change Your Life (not necessarily for the better)</description> 
-	<itunes:subtitle></itunes:subtitle>
-	<itunes:summary>TBTL is an often tedious but occasionally thrilling trip into the mind of host Luke Burbank. Each night Luke, Producer Jen and Sean the Engineer talk about their lives, their loves, and sometimes, light things on fire.</itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>TBTL is an often tedious but occasionally thrilling trip into the mind of host Luke Burbank. Each night Luke, Producer Jen and Sean the Engineer talk about their lives, their loves, and sometimes, light things on fire.</itunes:summary>
     <language>en-us</language> 
-	<itunes:owner>
-		<itunes:name>James Bottorff</itunes:name>
-		<itunes:email>jbottorff@bonneville.com</itunes:email>
-	</itunes:owner>
+    <itunes:owner>
+      <itunes:name>James Bottorff</itunes:name>
+      <itunes:email>jbottorff@bonneville.com</itunes:email>
+    </itunes:owner>
     <ttl>15</ttl> 
     <image>
       <title>Too Beautiful to Live with Luke Burbank - News Talk 710 KIRO Seattle, WA</title> 
@@ -20,171 +20,171 @@
       <link>http://www.mynorthwest.com</link> 
       <url>http://www.mynorthwest.com/img/lg_mynw_144x21.gif</url> 
     </image>
-	<itunes:image href="http://mynorthwest.com/img/podcasts/pod_tbtl_300.jpg"/>
-	<category>News</category>
-	<itunes:category text="News" />
-	<itunes:category text="Talk Radio" />
-	<media:thumbnail url="http://mynorthwest.com/img/podcasts/pod_tbtl_300.jpg" />
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-18-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Sean tries (unsuccessfully) to convince Luke and Vanessa that Human Centipede is worth watching, Utah's Attorney General gets the first ever 'Dude, Seriously?!' Award, and listener Judy writes in to agree with Sean that her uncle's old Ballard restaurant is, in fact, a crap-hole.&nbsp;]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100618_12pm.mp3</link>
-          <pubDate>Fri, 18 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100618_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Sean tries (unsuccessfully) to convince Luke and Vanessa that Human Centipede is worth watching, Utah's Attorney General gets the first ever 'Dude, Seriously?!' Award, and listener Judy writes in to agree with Sean that her uncle's old Ballard restaurant is, in fact, a crap-hole.&nbsp;]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-17-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Luke's truly awful talent agent checks in with another pathetic job opportunity, Sean thinks he's got a ghost living in his new apartment, and is Icing the new facebook poke? Listener Eric in Brooklyn says yes.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100617_12pm.mp3</link>
-          <pubDate>Thu, 17 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100617_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Luke's truly awful talent agent checks in with another pathetic job opportunity, Sean thinks he's got a ghost living in his new apartment, and is Icing the new facebook poke? Listener Eric in Brooklyn says yes.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-16-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Jen tries to single-handedly save the economy of one small Ohio town.&nbsp; Luke feels like a battered wife when it comes to his relationship with the Apple store, and TBTL-ella Song of The Summer Search. Round Two.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100616_12pm.mp3</link>
-          <pubDate>Wed, 16 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100616_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Jen tries to single-handedly save the economy of one small Ohio town.&nbsp; Luke feels like a battered wife when it comes to his relationship with the Apple store, and TBTL-ella Song of The Summer Search. Round Two.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-15-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[A California man gets arrested in Pakistan as he tries to hunt down Osama Bin Laden (by himself), and Luke is kind of impressed. Hari Kondabolu stops by to talk about the rigors of standup comedy, progressive politics, and how Luke has no idea how to pronounce his name, and the 15 things Larry King wonders about (courtesy of his twitter feed).]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100615_12pm.mp3</link>
-          <pubDate>Tue, 15 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100615_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[A California man gets arrested in Pakistan as he tries to hunt down Osama Bin Laden (by himself), and Luke is kind of impressed. Hari Kondabolu stops by to talk about the rigors of standup comedy, progressive politics, and how Luke has no idea how to pronounce his name, and the 15 things Larry King wonders about (courtesy of his twitter feed).]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-14-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Did Afghanistan just go all Beverly Hillbillies on it? The NYT says yes, Blake Hounshell from Foreign Policy drops by TBTL to say probably not. Plus, Mike Pesca checks in from South Africa with a World Cup Report, and The Tens of Listeners submit some of the worst jokes Luke has ever heard, but he reads them on-air anyway.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100614_12pm.mp3</link>
-          <pubDate>Mon, 14 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100614_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Did Afghanistan just go all Beverly Hillbillies on it? The NYT says yes, Blake Hounshell from Foreign Policy drops by TBTL to say probably not. Plus, Mike Pesca checks in from South Africa with a World Cup Report, and The Tens of Listeners submit some of the worst jokes Luke has ever heard, but he reads them on-air anyway.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-11-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Luke freaks out when Sean sees his dirty dishes, the SOD guys stop by to talk 'Worst Movie You Can See' this weekend, and the debut of a new segment: 'America's Got Talent is Basically the Worst Thing Ever... Except For This One Thing That Happened.']]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100611_12pm.mp3</link>
-          <pubDate>Fri, 11 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100611_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Luke freaks out when Sean sees his dirty dishes, the SOD guys stop by to talk 'Worst Movie You Can See' this weekend, and the debut of a new segment: 'America's Got Talent is Basically the Worst Thing Ever... Except For This One Thing That Happened.']]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-10-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Luke's car gets towed leading him to make some major life-changes.&nbsp; Jen's got a lot of reasons to love the idea of Kevin Costner cleaning up the BP Oil Spill. And Luke's agent makes an unforgettable appearance on TBTL. ]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100610_12pm.mp3</link>
-          <pubDate>Thu, 10 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100610_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Luke's car gets towed leading him to make some major life-changes.&nbsp; Jen's got a lot of reasons to love the idea of Kevin Costner cleaning up the BP Oil Spill. And Luke's agent makes an unforgettable appearance on TBTL. ]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-9-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[The grossest call-makers EVER (you might not even want to listen to this one), plus, the nerds get their hands on 'Bros Icing Bros', and Farhad Manjoo of Slate dot com reviews the new iPhone. ]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100609_12pm.mp3</link>
-          <pubDate>Wed, 09 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100609_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[The grossest call-makers EVER (you might not even want to listen to this one), plus, the nerds get their hands on 'Bros Icing Bros', and Farhad Manjoo of Slate dot com reviews the new iPhone. ]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-8-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[The gang kicks off the TBTL-ella ella Song of the Summer Search, plus, Jen needs a new system for remembering fancy words, and Luke finally learns why he is so terrible at baking.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100608_12pm.mp3</link>
-          <pubDate>Tue, 08 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100608_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[The gang kicks off the TBTL-ella ella Song of the Summer Search, plus, Jen needs a new system for remembering fancy words, and Luke finally learns why he is so terrible at baking.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[TBTL with Luke Burbank: 6-7-10 12:00 pm-1:00 pm]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[TBTL Live From Space Car! Third Time's A Charm edition]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100607_12pm.mp3</link>
-          <pubDate>Mon, 07 Jun 2010 16:00:00 -0800</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100607_12pm.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[TBTL Live From Space Car! Third Time's A Charm edition]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[BEST OF: Why It Matters: Male nudity (or dude-ity).]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[The release of 'Forgetting Sarah Marshall' causes the TBTL crew to ponder male 
-nudity in film.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2008/04/0419200802119.mp3</link>
-          <pubDate>Fri, 18 Apr 2008 20:00:00 -0700</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/04/0419200802119.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[The release of 'Forgetting Sarah Marshall' causes the TBTL crew to ponder male 
-nudity in film.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[BEST OF: Ken Lee...a dibba dubba doubt doo.]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[An audition for Bulgarian Idol leaves everyone at TBTL hilariously humming 
-Mariah Carey]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2008/04/0416200805513.mp3</link>
-          <pubDate>Tue, 15 Apr 2008 20:00:00 -0700</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/04/0416200805513.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[An audition for Bulgarian Idol leaves everyone at TBTL hilariously humming 
-Mariah Carey]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[BEST OF: Why It Matters: The A-Team]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[How Mr. T kept Mike Essl off drugs, and changed his life forever.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2008/03/0322200815423.mp3</link>
-          <pubDate>Fri, 21 Mar 2008 20:00:00 -0700</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/03/0322200815423.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[How Mr. T kept Mike Essl off drugs, and changed his life forever.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[BEST OF: On The Bubble with Mike Pesca]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[NPRs Mike Pesca arbitrarily declares thing to be in or out of fashion. Hilarity 
-ensues.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2008/03/0313200814243.mp3</link>
-          <pubDate>Wed, 12 Mar 2008 20:00:00 -0700</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/03/0313200814243.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[NPRs Mike Pesca arbitrarily declares thing to be in or out of fashion. Hilarity 
-ensues.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-  	  <title><![CDATA[BEST OF: Broke As A Joke In Seattle.]]></title>
-			<itunes:author>News Talk 97.3. KIRO FM</itunes:author>
-			<itunes:summary><![CDATA[Luke's pal Kelly and Engineer Sean trade stories on surviving Seattle when 
-you're broke. Sean talks about the medical experiments he's subjected himself to 
-in order to make ends meet.]]></itunes:summary>
-          <link>http://icestream.bonnint.net/seattle/kiro/2008/01/08182008172242.mp3</link>
-          <pubDate>Wed, 09 Jan 2008 20:00:00 -0700</pubDate>
-		    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/01/08182008172242.mp3" length="13500000" type="audio/mpeg" />
-          <description><![CDATA[Luke's pal Kelly and Engineer Sean trade stories on surviving Seattle when 
-you're broke. Sean talks about the medical experiments he's subjected himself to 
-in order to make ends meet.]]></description>
- 		    <itunes:explicit>no</itunes:explicit>
-</item>
+    <itunes:image href="http://mynorthwest.com/img/podcasts/pod_tbtl_300.jpg"/>
+    <category>News</category>
+    <itunes:category text="News" />
+    <itunes:category text="Talk Radio" />
+    <media:thumbnail url="http://mynorthwest.com/img/podcasts/pod_tbtl_300.jpg" />
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-18-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Sean tries (unsuccessfully) to convince Luke and Vanessa that Human Centipede is worth watching, Utah's Attorney General gets the first ever 'Dude, Seriously?!' Award, and listener Judy writes in to agree with Sean that her uncle's old Ballard restaurant is, in fact, a crap-hole.&nbsp;]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100618_12pm.mp3</link>
+      <pubDate>Fri, 18 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100618_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Sean tries (unsuccessfully) to convince Luke and Vanessa that Human Centipede is worth watching, Utah's Attorney General gets the first ever 'Dude, Seriously?!' Award, and listener Judy writes in to agree with Sean that her uncle's old Ballard restaurant is, in fact, a crap-hole.&nbsp;]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-17-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Luke's truly awful talent agent checks in with another pathetic job opportunity, Sean thinks he's got a ghost living in his new apartment, and is Icing the new facebook poke? Listener Eric in Brooklyn says yes.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100617_12pm.mp3</link>
+      <pubDate>Thu, 17 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100617_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Luke's truly awful talent agent checks in with another pathetic job opportunity, Sean thinks he's got a ghost living in his new apartment, and is Icing the new facebook poke? Listener Eric in Brooklyn says yes.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-16-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Jen tries to single-handedly save the economy of one small Ohio town.&nbsp; Luke feels like a battered wife when it comes to his relationship with the Apple store, and TBTL-ella Song of The Summer Search. Round Two.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100616_12pm.mp3</link>
+      <pubDate>Wed, 16 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100616_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Jen tries to single-handedly save the economy of one small Ohio town.&nbsp; Luke feels like a battered wife when it comes to his relationship with the Apple store, and TBTL-ella Song of The Summer Search. Round Two.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-15-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[A California man gets arrested in Pakistan as he tries to hunt down Osama Bin Laden (by himself), and Luke is kind of impressed. Hari Kondabolu stops by to talk about the rigors of standup comedy, progressive politics, and how Luke has no idea how to pronounce his name, and the 15 things Larry King wonders about (courtesy of his twitter feed).]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100615_12pm.mp3</link>
+      <pubDate>Tue, 15 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100615_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[A California man gets arrested in Pakistan as he tries to hunt down Osama Bin Laden (by himself), and Luke is kind of impressed. Hari Kondabolu stops by to talk about the rigors of standup comedy, progressive politics, and how Luke has no idea how to pronounce his name, and the 15 things Larry King wonders about (courtesy of his twitter feed).]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-14-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Did Afghanistan just go all Beverly Hillbillies on it? The NYT says yes, Blake Hounshell from Foreign Policy drops by TBTL to say probably not. Plus, Mike Pesca checks in from South Africa with a World Cup Report, and The Tens of Listeners submit some of the worst jokes Luke has ever heard, but he reads them on-air anyway.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100614_12pm.mp3</link>
+      <pubDate>Mon, 14 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100614_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Did Afghanistan just go all Beverly Hillbillies on it? The NYT says yes, Blake Hounshell from Foreign Policy drops by TBTL to say probably not. Plus, Mike Pesca checks in from South Africa with a World Cup Report, and The Tens of Listeners submit some of the worst jokes Luke has ever heard, but he reads them on-air anyway.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-11-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Luke freaks out when Sean sees his dirty dishes, the SOD guys stop by to talk 'Worst Movie You Can See' this weekend, and the debut of a new segment: 'America's Got Talent is Basically the Worst Thing Ever... Except For This One Thing That Happened.']]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100611_12pm.mp3</link>
+      <pubDate>Fri, 11 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100611_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Luke freaks out when Sean sees his dirty dishes, the SOD guys stop by to talk 'Worst Movie You Can See' this weekend, and the debut of a new segment: 'America's Got Talent is Basically the Worst Thing Ever... Except For This One Thing That Happened.']]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-10-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Luke's car gets towed leading him to make some major life-changes.&nbsp; Jen's got a lot of reasons to love the idea of Kevin Costner cleaning up the BP Oil Spill. And Luke's agent makes an unforgettable appearance on TBTL. ]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100610_12pm.mp3</link>
+      <pubDate>Thu, 10 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100610_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Luke's car gets towed leading him to make some major life-changes.&nbsp; Jen's got a lot of reasons to love the idea of Kevin Costner cleaning up the BP Oil Spill. And Luke's agent makes an unforgettable appearance on TBTL. ]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-9-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[The grossest call-makers EVER (you might not even want to listen to this one), plus, the nerds get their hands on 'Bros Icing Bros', and Farhad Manjoo of Slate dot com reviews the new iPhone. ]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100609_12pm.mp3</link>
+      <pubDate>Wed, 09 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100609_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[The grossest call-makers EVER (you might not even want to listen to this one), plus, the nerds get their hands on 'Bros Icing Bros', and Farhad Manjoo of Slate dot com reviews the new iPhone. ]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-8-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[The gang kicks off the TBTL-ella ella Song of the Summer Search, plus, Jen needs a new system for remembering fancy words, and Luke finally learns why he is so terrible at baking.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100608_12pm.mp3</link>
+      <pubDate>Tue, 08 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100608_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[The gang kicks off the TBTL-ella ella Song of the Summer Search, plus, Jen needs a new system for remembering fancy words, and Luke finally learns why he is so terrible at baking.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[TBTL with Luke Burbank: 6-7-10 12:00 pm-1:00 pm]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[TBTL Live From Space Car! Third Time's A Charm edition]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100607_12pm.mp3</link>
+      <pubDate>Mon, 07 Jun 2010 16:00:00 -0800</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2010/06/p_TBTL_with_Luke_Burbank_20100607_12pm.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[TBTL Live From Space Car! Third Time's A Charm edition]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[BEST OF: Why It Matters: Male nudity (or dude-ity).]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[The release of 'Forgetting Sarah Marshall' causes the TBTL crew to ponder male 
+        nudity in film.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2008/04/0419200802119.mp3</link>
+      <pubDate>Fri, 18 Apr 2008 20:00:00 -0700</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/04/0419200802119.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[The release of 'Forgetting Sarah Marshall' causes the TBTL crew to ponder male 
+        nudity in film.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[BEST OF: Ken Lee...a dibba dubba doubt doo.]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[An audition for Bulgarian Idol leaves everyone at TBTL hilariously humming 
+        Mariah Carey]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2008/04/0416200805513.mp3</link>
+      <pubDate>Tue, 15 Apr 2008 20:00:00 -0700</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/04/0416200805513.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[An audition for Bulgarian Idol leaves everyone at TBTL hilariously humming 
+        Mariah Carey]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[BEST OF: Why It Matters: The A-Team]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[How Mr. T kept Mike Essl off drugs, and changed his life forever.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2008/03/0322200815423.mp3</link>
+      <pubDate>Fri, 21 Mar 2008 20:00:00 -0700</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/03/0322200815423.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[How Mr. T kept Mike Essl off drugs, and changed his life forever.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[BEST OF: On The Bubble with Mike Pesca]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[NPRs Mike Pesca arbitrarily declares thing to be in or out of fashion. Hilarity 
+        ensues.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2008/03/0313200814243.mp3</link>
+      <pubDate>Wed, 12 Mar 2008 20:00:00 -0700</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/03/0313200814243.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[NPRs Mike Pesca arbitrarily declares thing to be in or out of fashion. Hilarity 
+        ensues.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[BEST OF: Broke As A Joke In Seattle.]]></title>
+      <itunes:author>News Talk 97.3. KIRO FM</itunes:author>
+      <itunes:summary><![CDATA[Luke's pal Kelly and Engineer Sean trade stories on surviving Seattle when 
+        you're broke. Sean talks about the medical experiments he's subjected himself to 
+        in order to make ends meet.]]></itunes:summary>
+      <link>http://icestream.bonnint.net/seattle/kiro/2008/01/08182008172242.mp3</link>
+      <pubDate>Wed, 09 Jan 2008 20:00:00 -0700</pubDate>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/icestream.bonnint.net/seattle/kiro/2008/01/08182008172242.mp3" length="13500000" type="audio/mpeg" />
+      <description><![CDATA[Luke's pal Kelly and Engineer Sean trade stories on surviving Seattle when 
+        you're broke. Sean talks about the medical experiments he's subjected himself to 
+        in order to make ends meet.]]></description>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
