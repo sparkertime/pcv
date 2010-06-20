@@ -7,41 +7,41 @@ describe Feed do
       Feed.create!(Factory.attributes_for(:feed))
     end
   end
-  
+
   describe "name" do
-    
+
     it "should be unique" do
       feed1 = Factory(:feed)
       feed2 = Factory.build(:feed, :name => feed1.name)
       feed2.save
-      
+
       feed2.errors.invalid?(:name).should be_true
     end
   end
-  
+
   describe "url" do
     it "should be required" do
       feed = Factory.build(:feed, :url => nil)
       feed.save
-      
+
       feed.errors.invalid?(:url).should be_true
     end
-    
+
     it "should be unique" do
       feed1 = Factory(:feed)
       feed2 = Factory.build(:feed, :url => feed1.url)
       feed2.save
-      
+
       feed2.errors.invalid?(:url).should be_true
     end
-    
+
     it "should be a valid url" do
       feed = Factory.build(:feed, :url => 'hello')
       feed.save
-      
+
       feed.errors.invalid?(:url).should be_true
     end
-    
+
     it "should not require http in the url" do
       feed = Factory.build(:feed, :url => 'example.com')
 
@@ -74,6 +74,20 @@ describe Feed do
 
     it "should return all items in the feed when there is fewer than 10" do
       @feed.items.size.should == 12
+    end
+
+    it "should display a name for each item" do
+      @feed.items.each do |item|
+        item.title.should_not be_nil
+      end
+    end
+
+    it "should display the first name correctly" do
+      @feed.items.first.title.should == 'The Bud Before the Blossom'
+    end
+
+    it "should retrieve the enclosure" do
+      @feed.items.first.enclosure.url.should == 'http://feedproxy.google.com/~r/marshill/podcast/~5/TLWoNAmyq_E/061310.mp3'
     end
   end
 end

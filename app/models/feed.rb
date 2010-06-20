@@ -25,6 +25,6 @@ class Feed < ActiveRecord::Base
 
 
   def rss
-    @rss ||= SimpleRSS.parse open(self.url)
+    @rss ||= RSS::Parser.parse open(url)
   end
 end
