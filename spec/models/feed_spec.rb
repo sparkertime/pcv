@@ -89,5 +89,9 @@ describe Feed do
     it "should retrieve the enclosure" do
       @feed.items.first.enclosure.url.should == 'http://feedproxy.google.com/~r/marshill/podcast/~5/TLWoNAmyq_E/061310.mp3'
     end
+
+    it "should retrieve the date correctly" do
+      @feed.items.first.pubDate.should == Time.parse("Sun Jun 13 08:30:28 -0500 2010")
+    end
   end
 end
