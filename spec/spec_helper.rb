@@ -51,6 +51,9 @@ Spec::Runner.configure do |config|
   # == Notes
   #
   # For more information take a look at Spec::Runner::Configuration and Spec::Runner
+  config.before :each do
+    FakeWeb.clean_registry
+  end
 end
 
 FakeWeb.allow_net_connect = false
