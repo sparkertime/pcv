@@ -54,6 +54,8 @@ Spec::Runner.configure do |config|
   config.before :each do
     FakeWeb.clean_registry
   end
+  config.include(AuthenticationMacros, :type => :controller)
+  config.extend(AuthenticationMacros, :type => :controller)
 end
 
 FakeWeb.allow_net_connect = false
