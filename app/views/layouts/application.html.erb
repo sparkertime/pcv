@@ -1,25 +1,27 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-  <title>Progressive Christian Voices - <%= yield :header %></title>
-  <%= stylesheet_link_tag :all %>
-</head>
-<body>
-  <p style="color: green"><%= flash[:notice] %></p>
-  <h1><%= yield :header %></h1>
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <title>Progressive Christian Voices</title>
+    <%= stylesheet_link_tag :all %>
+  </head>
+  <body>
+    <div class='container_12'>
+      <h1><%= yield :header %></h1>
 
-  <%= yield %>
+      <p style="color: green"><%= flash[:notice] %></p>
 
-  <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' %>
+      <%= yield %>
 
-  <script>
-  $(function() {
-    <%= yield :javascript %>  
-  })
-  </script>
+      <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' %>
+    </div>
+    <script>
+      $(function() {
+        <%= yield :javascript %>  
+      })
+    </script>
 
-</body>
+  </body>
 </html>
