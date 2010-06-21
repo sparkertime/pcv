@@ -9,13 +9,16 @@
   </head>
   <body>
     <div class='container_12'>
-      <h1><%= yield :header %></h1>
+      <div class='header'><h1>Progressive Christain Voices</h1></div>
+      <div class='content'>
+        <h2><%= yield :header %></h2>
 
-      <p style="color: green"><%= flash[:notice] %></p>
+        <p style="color: green"><%= flash[:notice] %></p>
 
-      <%= yield %>
+        <%= yield %>
 
-      <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' %>
+        <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' %>
+      </div>
     </div>
     <script>
       $(function() {

@@ -9,12 +9,23 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100620224736) do
+ActiveRecord::Schema.define(:version => 20100621133211) do
 
   create_table "feeds", :force => true do |t|
     t.string   "name"
     t.string   "url"
     t.string   "description"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "feeds_mixes", :id => false, :force => true do |t|
+    t.integer "feed_id"
+    t.integer "mix_id"
+  end
+
+  create_table "mixes", :force => true do |t|
+    t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

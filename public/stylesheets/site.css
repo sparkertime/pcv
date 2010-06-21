@@ -1,31 +1,38 @@
-/* @override http://pcv.local/stylesheets/scaffold.css?1277120867 */
-
 body {
-  background-image: url('/images/bg.png');
+  background-image: url('/images/background.png');
   background-repeat: repeat-x;
-  color: #fff;
-  background-color: #00f;
+  color: #000;
+  background-color: #fff;
   padding: 0px;	
   margin: 0px;
 }
 
-.container_12{
-  background-image: url('/images/content_bg.png'); 
-  background-repeat: repeat-x;
+.content {
   min-height: 1000px;
-  margin-top: 88px;
-  border-right: 1px solid #000;
-  border-left:  1px solid #000;
-  background-color: #fff;
-  color: #000;
-  padding: 10px;
+  padding-top: 1px;
+}
+
+.header {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  color: #fff;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 20px;
 }
 
 body, p, ol, ul, td {
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size:   13px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
   line-height: 18px;
 }
+
+
 
 pre {
   background-color: #eee;

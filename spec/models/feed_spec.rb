@@ -8,6 +8,12 @@ describe Feed do
     end
   end
 
+  describe "mix association" do
+    it "should have many mixes" do
+      feed 
+    end
+  end
+
   describe "name" do
 
     it "should be unique" do

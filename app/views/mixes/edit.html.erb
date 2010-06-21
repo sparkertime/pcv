@@ -1,0 +1,16 @@
+<% content_for :header %>Editing mix<% end %>
+
+<% form_for(@mix) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @mix %> |
+<%= link_to 'Back', mixes_path %>
