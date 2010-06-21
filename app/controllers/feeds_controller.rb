@@ -1,4 +1,7 @@
 class FeedsController < ApplicationController
+  
+  before_filter :login_required, :except => [:index, :show]
+  
   # GET /feeds
   # GET /feeds.xml
   def index
