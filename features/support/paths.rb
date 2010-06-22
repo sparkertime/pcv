@@ -14,6 +14,9 @@ module NavigationHelpers
     when /the feeds list page/
       feeds_path
 
+    when /the "(.*)" feed page/
+      feed_path(Feed.find_by_name($1))
+
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
     #

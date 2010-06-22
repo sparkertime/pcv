@@ -10,3 +10,11 @@ Feature: Show list of feeds
     And I am on the feeds list page
     Then I should see "A Cool Feed"
     And I should see "Another Feed"
+
+  Scenario: Links to View Feed
+    Given I have the feed
+      | Name      |
+      | Some Feed |
+    And I am on the feeds list page
+    When I follow "Show"
+    Then I should be on the "Some Feed" feed page

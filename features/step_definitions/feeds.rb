@@ -1,4 +1,4 @@
-Given /^I have the feeds$/ do |table|
+Given /^I have the feed(?:s?)$/ do |table|
   table.map_headers!{ |header| header.downcase.to_sym }
   table.hashes.each do |attributes|
     url_name = attributes[:name].gsub(/ /, '_')
