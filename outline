@@ -1,4 +1,10 @@
 add feeds to a mix
+  needs UI
+
 generate a url slug for a mix
+  done
+
 generate rss for a mix
+  done
+
 write cucumber features

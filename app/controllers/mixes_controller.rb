@@ -17,7 +17,7 @@ class MixesController < ApplicationController
 
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @mix }
+      format.xml  # show.xml.builder
     end
   end
 

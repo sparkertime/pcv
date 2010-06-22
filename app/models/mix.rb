@@ -8,6 +8,6 @@ class Mix < ActiveRecord::Base
   has_and_belongs_to_many :feeds, :uniq => true
 
   def items
-    feeds.map {|f| f.items}.flatten.sort {|x,y| x.pubDate <=> y.pubDate }
+    feeds.map {|f| f.items}.flatten.sort {|x,y| y.pubDate <=> x.pubDate }
   end
 end

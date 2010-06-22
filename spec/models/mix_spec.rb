@@ -66,7 +66,7 @@ describe Mix do
     end
 
     it "should sort the items in descending order by date" do
-      sorted_items = @mix.items.dup.sort {|x,y| x.pubDate <=> y.pubDate }
+      sorted_items = @mix.items.dup.sort {|x,y| y.pubDate <=> x.pubDate }
 
       @mix.items.should == sorted_items
     end
