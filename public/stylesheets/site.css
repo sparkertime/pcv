@@ -24,7 +24,7 @@ a:hover { color: #fff; background-color:#000; }
 
 .nav_links {
   padding-top: 25px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .nav_links a:link, .nav_links a:visited, .nav_links a:hover {

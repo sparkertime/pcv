@@ -15,4 +15,11 @@ class SessionsController < ApplicationController
       end
     end
   end
+
+  def end
+    self.current_user = nil
+    respond_to do |format|
+      format.html { redirect_to(root_path) }
+    end
+  end
 end

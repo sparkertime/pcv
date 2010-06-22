@@ -17,6 +17,7 @@
           <%= link_to "Home", root_path %>
           <%= link_to "Feeds", feeds_path %>
           <%= link_to "Mixes", mixes_path %>
+          <%= link_to "Logout", end_sessions_path, :method => :post if logged_in? %>
         </div>
         <div class='clear'></div>
       </div>

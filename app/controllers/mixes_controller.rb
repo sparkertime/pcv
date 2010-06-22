@@ -2,7 +2,7 @@ class MixesController < ApplicationController
   # GET /mixes
   # GET /mixes.xml
   def index
-    @mixes = Mix.all
+    @mixes = Mix.all(:order => 'NAME ASC')
 
     respond_to do |format|
       format.html # index.html.erb

@@ -5,7 +5,7 @@ class FeedsController < ApplicationController
   # GET /feeds
   # GET /feeds.xml
   def index
-    @feeds = Feed.all
+    @feeds = Feed.all(:order => 'name ASC')
 
     respond_to do |format|
       format.html # index.html.erb

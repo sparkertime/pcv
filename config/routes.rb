@@ -7,7 +7,9 @@ ActionController::Routing::Routes.draw do |map|
 
   map.resources :feeds, :except => [:index, :show], :path_prefix => 'admin'
 
-  map.resources :sessions, :only => [:new, :create]
+  map.resources :sessions, :only => [:new, :create], :collection => {:end => :post}
+
+  map.admin '/admin', :controller => :sessions, :action => :new
 
   map.root :controller => :pages, :action => :home
 end
