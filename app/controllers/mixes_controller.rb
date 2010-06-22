@@ -82,4 +82,20 @@ class MixesController < ApplicationController
       format.xml  { head :ok }
     end
   end
+
+  def add_feed
+    mix = Mix.find(params[:id])
+    feed = Feed.find(params[:feed_id])
+
+    mix.feeds << feed
+    redirect_to mix
+  end
+
+  def remove_feed
+    mix = Mix.find(params[:id])
+    feed = Feed.find(params[:feed_id])
+
+    mix.feeds.delete feed
+    redirect_to mix
+  end
 end

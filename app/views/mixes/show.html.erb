@@ -7,4 +7,17 @@
   <%= link_to rss_mix_url(@mix), rss_mix_url(@mix), :target => :blank %><br />
   (Just copy this link into your favorite podcasting application like iTunes, Zune, or another)
 </p>
+<p>
+<b>Feeds:</b>
+  <ul>
+    <%= render :partial => 'feed_signup', :locals => {:feeds => @mix.feeds, :mix => @mix} %>
+  </ul>
+</p>
+
+<p>
+  <b>Add Feeds to this Mix:</b>
+  <ul>
+    <%# render :partial => 'feed_signup', :collection => @other_feeds, :mix => @mix %>
+  </ul>
+</p>
 <p><%= link_to 'Back', mixes_path %></p>

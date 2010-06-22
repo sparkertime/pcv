@@ -1,5 +1,5 @@
 ActionController::Routing::Routes.draw do |map|
-  map.resources :mixes
+  map.resources :mixes, :member => [:add_feed, :remove_feed]
 
   map.resources :users
 

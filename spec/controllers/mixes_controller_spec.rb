@@ -128,4 +128,35 @@ describe MixesController do
     end
   end
 
+  describe "POST add_feed" do
+    before :each do
+      @mix = Factory(:mix)
+      @feed = Factory(:feed)
+      
+      post :add_feed, :id => @mix.friendly_id, :feed_id => @feed.id
+    end
+
+    it "should add a feed to a mix" do
+      mix = Mix.find(@mix.id)
+      mix.feeds.should include(@feed)
+    end
+    
+    it "should redirect back to the mix show page" do
+      response.should redirect_to(mix_url(@mix))
+    end
+  end
+
+  describe "POST remove_feed" do
+    before :each do
+      @feed = Factory(:feed)
+      @mix = Factory(:mix, :feeds => [@feed])
+
+      post :remove_feed, :id => @mix.friendly_id, :feed_id => @feed.id
+    end
+
+    it "should remove the feed from the mix" do
+      mix = Mix.find(@mix.id)
+      mix.feeds.should_not include(@feed)
+    end
+  end
 end
