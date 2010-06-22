@@ -1,20 +1,24 @@
 <% content_for :header do %>Listing feeds<% end %>
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Url</th>
-    <th>Description</th>
-  </tr>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Url</th>
+      <th>Description</th>
+    </tr>
 
-<% @feeds.each do |feed| %>
-  <tr>
-    <td><%=h feed.name %></td>
-    <td><%=h feed.url %></td>
-    <td><%=h feed.description %></td>
-    <td><%= link_to 'Show', feed_path(feed) %></td>
-    <td><%= link_to 'Edit', edit_feed_path(feed) %></td>
-    <td><%= link_to 'Destroy', edit_feed_path(feed), :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
-<% end %>
-</table>
+    <% @feeds.each do |feed| %>
+      <tr>
+        <td><%=h feed.name %></td>
+        <td><%=h feed.url %></td>
+        <td><%=h feed.description %></td>
+        <td><%= link_to 'Show', feed_path(feed) %></td>
+        <% if logged_in? then %>
+          <td><%= link_to 'Edit', edit_feed_path(feed) %></td>
+          <td><%= link_to 'Destroy', "/admin/feeds/#{feed.id}", :confirm => 'Are you sure?', :method => :delete %></td>
+        <% end %>
+      </tr>
+    <% end %>
+  </table>
+
+  <%= link_to("Create New Feed", new_feed_path) if logged_in? %>

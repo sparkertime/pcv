@@ -1,6 +1,6 @@
-<% content_for :header %>New feed<% end %>
+<% content_for :header do %>New feed<% end %>
 
-<% form_for(@feed) do |f| %>
+<% form_for(@feed, :url => "/admin/feeds") do |f| %>
   <%= f.error_messages %>
 
   <p>
