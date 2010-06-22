@@ -4,9 +4,13 @@ module RssFixture
     @cache ||= {}
     @cache[rss_name.to_sym] ||= load_rss(rss_name)
 
-    url = "http://fake.com/rss#{rss_name.to_s.underscore}"
+    url = fake_url(rss_name)
     FakeWeb.register_uri(:get, url, :body => @cache[rss_name.to_sym])
     url
+  end
+
+  def fake_url(name)
+    "http://fake.com/rss#{name.to_s.underscore}"
   end
 
   def load_rss(file_name)
