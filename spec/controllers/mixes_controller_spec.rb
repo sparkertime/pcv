@@ -167,5 +167,9 @@ describe MixesController do
       mix = Mix.find(@mix.id)
       mix.feeds.should_not include(@feed)
     end
+
+    it "should redirect back to the mix show page" do
+      response.should redirect_to(mix_url(@mix))
+    end
   end
 end
