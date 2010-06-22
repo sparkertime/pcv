@@ -38,4 +38,25 @@ describe Mix do
       mix.feeds.should include(feed2)
     end
   end
+
+  describe "items" do
+    before :each do
+      @mix = Factory(:mix)
+      @feed1 = Factory(:feed, :url => fake_rss_url(:mars_hill))
+      @feed2 = Factory(:feed, :url => fake_rss_url(:umc))
+      @mix.feeds << @feed1
+      @mix.feeds << @feed2
+    end
+
+    it "mixes in items from all feeds" do
+      @mix.items.size.should == 27
+    end
+
+    it "should sort the items in descending order by date" do
+      sorted_items = @mix.items.dup.sort {|x,y| x.pubDate <=> y.pubDate }
+
+      @mix.items.should == sorted_items
+    end
+
+  end
 end

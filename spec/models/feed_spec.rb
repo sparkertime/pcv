@@ -10,7 +10,16 @@ describe Feed do
 
   describe "mix association" do
     it "should have many mixes" do
-      feed 
+      feed = Factory(:feed)
+      mix1 = Factory(:mix)
+      mix2 = Factory(:mix)
+
+      feed.mixes << mix1
+      feed.mixes << mix2
+
+      feed = Feed.find feed.id
+      feed.mixes.should include(mix1)
+      feed.mixes.should include(mix2)
     end
   end
 
@@ -61,8 +70,7 @@ describe Feed do
     end
 
     it "should update the name if it is not set on creation" do
-      FakeWeb.register_uri(:get, rss_url, :body => rss)
-      feed = Factory(:feed, :name => nil, :url => rss_url)
+      feed = Factory(:feed, :name => nil, :url => fake_rss_url(:mars_hill))
 
       feed.name.should == "Mars Hill Bible Church"
     end
@@ -70,8 +78,7 @@ describe Feed do
 
   describe "items" do
     before :each do      
-      FakeWeb.register_uri(:get, rss_url, :body => rss)
-      @feed = Factory.build(:feed, :url => rss_url)
+      @feed = Factory.build(:feed, :url => fake_rss_url(:mars_hill))
     end
 
     it "should load the file from the url" do

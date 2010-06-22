@@ -1,4 +1,5 @@
 class Feed < ActiveRecord::Base
+  has_and_belongs_to_many :mixes
   validates_presence_of :url
   validates_uniqueness_of :name, :url
   validates_url_format_of :url
@@ -23,8 +24,7 @@ class Feed < ActiveRecord::Base
     self.name = rss.channel.title
   end
 
-
   def rss
-    @rss ||= RSS::Parser.parse open(url)
+    @rss ||= RSS::Parser.parse(open(url), false)
   end
 end

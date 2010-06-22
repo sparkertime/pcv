@@ -1,3 +1,4 @@
-- a Feed is a typical RSS feed, loaded on-demand (for time being). Created by an admin
-- a VirtualFeed is an RSS feed we create from pointing to a directory and looking for updates. Created by an admin
-- a Mix is one or more Feeds and/or Virtual Feeds that is given a name, slug, and passphrase
+add feeds to a mix
+generate a url slug for a mix
+generate rss for a mix
+write cucumber features
