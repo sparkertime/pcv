@@ -1,3 +1,10 @@
 <% feeds.each do |feed| %>
-  <li><%=h feed.name %></li>
+  <li>
+    <%=h feed.name %>
+    <% if mix.feeds.exists? feed.id %>
+      <%= button_to "Remove", remove_feed_mix_path(mix, :feed_id => feed.id), :method => :post%>
+    <% else %>
+      <%= button_to "Add", add_feed_mix_path(mix, :feed_id => feed.id), :method => :post %>
+    <% end %>
+  </li>
 <% end %>

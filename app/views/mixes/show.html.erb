@@ -17,7 +17,7 @@
 <p>
   <b>Add Feeds to this Mix:</b>
   <ul>
-    <%# render :partial => 'feed_signup', :collection => @other_feeds, :mix => @mix %>
+    <%= render :partial => 'feed_signup', :locals => {:feeds => @other_feeds, :mix => @mix} %>
   </ul>
 </p>
 <p><%= link_to 'Back', mixes_path %></p>

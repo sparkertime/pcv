@@ -5,6 +5,8 @@ class Feed < ActiveRecord::Base
   validates_url_format_of :url
 
   after_validation_on_create :set_name_from_feed, :unless => :name?
+
+  named_scope :not_in_mix, lambda {|mix| {:conditions => ['not exists (select 1 from feeds_mixes where feeds_mixes.mix_id = ? AND feeds_mixes.feed_id = feeds.id)', mix.id] } }
   
   def url=(value)
     if value.nil? || value.include?('http://')

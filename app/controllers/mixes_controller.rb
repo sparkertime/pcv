@@ -14,6 +14,7 @@ class MixesController < ApplicationController
   # GET /mixes/1.xml
   def show
     @mix = Mix.find(params[:id])
+    @other_feeds = Feed.not_in_mix(@mix).all(:order => 'NAME ASC')
 
     respond_to do |format|
       format.html # show.html.erb

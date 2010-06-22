@@ -20,6 +20,15 @@ describe MixesController do
       get :show, :id => "37"
       assigns[:mix].should equal(mock_mix)
     end
+
+    it "assigns feeds available for adding as @other_feeds" do
+      mix = Factory(:mix, :feeds => [Factory(:feed)])
+      feed = Factory(:feed)
+      
+      get :show, :id => mix.id
+
+      assigns[:other_feeds].should == [feed]
+    end
   end
 
   describe "GET new" do
