@@ -1,4 +1,4 @@
-<% content_for :header %>Listing mixes<% end %>
+<% content_for :header do %>Listing mixes<% end %>
 
 <table>
   <tr>
@@ -8,13 +8,11 @@
 <% @mixes.each do |mix| %>
   <tr>
     <td><%=h mix.name %></td>
-    <td><%= link_to 'Show', mix %></td>
-    <td><%= link_to 'Edit', edit_mix_path(mix) %></td>
-    <td><%= link_to 'Destroy', mix, :confirm => 'Are you sure?', :method => :delete %></td>
+    <td><%= link_to 'View / Update', mix %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New mix', new_mix_path %>
+<%= link_to 'Create a new mix', new_mix_path %>

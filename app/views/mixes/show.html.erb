@@ -2,7 +2,9 @@
   <b>Name:</b>
   <%=h @mix.name %>
 </p>
-
-
-<%= link_to 'Edit', edit_mix_path(@mix) %> |
-<%= link_to 'Back', mixes_path %>
+<p>
+  <b>Podcast Url:</b>
+  <%= link_to rss_mix_url(@mix), rss_mix_url(@mix), :target => :blank %><br />
+  (Just copy this link into your favorite podcasting application like iTunes, Zune, or another)
+</p>
+<p><%= link_to 'Back', mixes_path %></p>

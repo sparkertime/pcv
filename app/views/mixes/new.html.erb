@@ -1,15 +1,15 @@
-<% content_for :header %>New mix<% end %>
+<% content_for :header do %>New mix<% end %>
 
 <% form_for(@mix) do |f| %>
   <%= f.error_messages %>
 
+  <p>To start subscribing and sharing feeds, just make a name for your mix. After this step, you'll be able to start adding feeds to your new mix, as well as share it with others.</p>
+  <p><strong>Be careful</strong> - once you create your name, there's no going back.</p>
   <p>
     <%= f.label :name %><br />
     <%= f.text_field :name %>
   </p>
   <p>
-    <%= f.submit 'Create' %>
+    <%= f.submit 'Create a new Mix' %>
   </p>
 <% end %>
-
-<%= link_to 'Back', mixes_path %>

@@ -9,7 +9,17 @@
   </head>
   <body>
     <div class='container_12'>
-      <div class='header'><h1>Progressive Christain Voices</h1></div>
+      <div class='header'>
+        <div class='grid_8 alpha'>
+          <h1>Progressive Christain Voices</h1>
+        </div>
+        <div class='grid_4 omega nav_links'>
+          <%= link_to "Home", root_path %>
+          <%= link_to "Feeds", feeds_path %>
+          <%= link_to "Mixes", mixes_path %>
+        </div>
+        <div class='clear'></div>
+      </div>
       <div class='content'>
         <h2><%= yield :header %></h2>
 

@@ -1,0 +1,25 @@
+<% content_for :header do %>Welcome to Progressive Christian Voices!<% end %>
+
+  <p>Progressive Christain Voices is a community for Christians with an open mind to share their favorite podcasts and videocasts with one another</p>
+
+  <p>To get started, just follow these steps:
+    <ol>
+      <li><%= link_to "Create your own 'mix'", new_mix_path %></li>
+      <li>Start adding your favorite feeds to it!</li>
+    </ol>
+  </p>
+
+  <p>Alternatively, you can check out what other people are doing on the site below:</p>
+
+  <h3>Newest Mixes</h3>
+  <ul>
+    <%= render @mixes %>
+  </ul>
+  <%= link_to "View All Mixes", mixes_path %><br />
+  <%= link_to "Create Your Own Mix", new_mix_path %>
+
+  <h3>Newest Feeds</h3>
+  <ul>
+    <%= render @feeds %>
+  </ul>
+  <%= link_to "View All Feeds", feeds_path %>
