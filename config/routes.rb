@@ -4,8 +4,10 @@ ActionController::Routing::Routes.draw do |map|
   map.resources :users
 
   map.resources :feeds, :only => [:index, :show]
-
-  map.resources :feeds, :except => [:index, :show], :path_prefix => 'admin'
+  
+  map.namespace :admin do |admin|
+    admin.resources :feeds, :except => [:index, :show]
+  end
 
   map.resources :sessions, :only => [:new, :create], :collection => {:end => :post}
 

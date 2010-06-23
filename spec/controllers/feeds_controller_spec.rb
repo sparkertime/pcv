@@ -26,7 +26,13 @@ describe FeedsController do
   end
 
   describe "admin-only actions" do
-
+    before :each do 
+      ActionController::Routing::Routes.draw do |map|
+        #part of the feeds controller is mapped strangely, so this helps rspec figure it out
+        map.resources :feeds
+      end 
+    end
+    
     before :each do
       make_authenticated
     end

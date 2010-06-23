@@ -1,10 +1,8 @@
-add feeds to a mix
-  needs UI
-
-generate a url slug for a mix
-  done
-
-generate rss for a mix
-  done
-
-write cucumber features
+finish cucumber features
+add virtual feed support
+add passphrase/session-based mix updating
+add support for automated feed addition
+add link support for when enclosure isn't present
+add itunes support
+Make feed UI clearer
+JS niceties

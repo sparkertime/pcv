@@ -1,1 +1,3 @@
-Progressive Christian Voices - a podcasting community written in Rails
+Progressive Christian Voices - a podcasting community written in Rails.
+
+Note - if you are using this on your own, you'll need to create a user from the console first, and then create some feeds by hitting /admin on the server

@@ -13,7 +13,7 @@ module AuthenticationMacros
       send(verb, action, parameters)
 
       response.should redirect_to(new_session_url)
-      flash[:error] = "This action is available to administrators only"
+      flash[:error].should == "This action is available to administrators only"
     end
   end
 end
