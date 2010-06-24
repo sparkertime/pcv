@@ -8,9 +8,10 @@ describe MixesController do
 
   describe "GET index" do
     it "assigns all mixes as @mixes" do
-      Mix.stub(:find).with(:all).and_return([mock_mix])
+      mix1 = Factory(:mix, :name => 'zed')
+      mix2 = Factory(:mix, :name => 'alpha')
       get :index
-      assigns[:mixes].should == [mock_mix]
+      assigns[:mixes].should == [mix2, mix1]
     end
   end
 
