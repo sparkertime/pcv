@@ -6,3 +6,5 @@ add link support for when enclosure isn't present
 add itunes support
 Make feed UI clearer
 JS niceties
+Add feed search, pagination
+Improve UI (look at github)
